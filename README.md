@@ -1,8 +1,6 @@
 # 静岡県立大学 薬学部 臨床薬剤学分野サイト
 
-公開中の旧サイト（SIRIUS + 静的HTML）を、**Astro + Pages CMS** 前提で再構築した検証用リポジトリです。
-
-当面のゴールは **Cloudflare Pages の無料枠（`*.pages.dev`）でデザイン・導線・更新フローを確認できること** です。
+公開中の旧サイト（SIRIUS + 静的HTML）を、**Astro + Pages CMS** 前提で再構築したリポジトリです。
 
 ## 技術構成
 
@@ -28,7 +26,7 @@ npm run build
 npm run preview
 ```
 
-## Cloudflare Pages への接続（史門さん側）
+## Cloudflare Pages への接続
 
 1. このリポジトリを GitHub へ push
 2. Cloudflare Pages でリポジトリを接続
