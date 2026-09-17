@@ -1,0 +1,133 @@
+{
+  "faculty": [
+    {
+      "role": "教授",
+      "name": "辻 大樹",
+      "nameEn": "Daiki Tsuji",
+      "degree": "博士(薬学)",
+      "profileUrl": "https://db.u-shizuoka-ken.ac.jp/show/prof382.html"
+    },
+    {
+      "role": "講師",
+      "name": "横山 匡",
+      "nameEn": "Tasuku Yokoyama",
+      "degree": "博士(薬学)",
+      "profileUrl": "https://db.u-shizuoka-ken.ac.jp/show/p-yokoyamatasuku.html"
+    },
+    {
+      "role": "助教",
+      "name": "谷澤 康玄",
+      "nameEn": "Yasuharu Yazawa",
+      "degree": "博士(薬学)",
+      "profileUrl": "http://db.u-shizuoka-ken.ac.jp/show/prof281.html"
+    },
+    {
+      "role": "助教",
+      "name": "上野 翔平",
+      "nameEn": "Shohei Ueno",
+      "degree": "",
+      "profileUrl": ""
+    },
+    {
+      "role": "客員教授",
+      "name": "高橋 幸利",
+      "nameEn": "Yukitoshi Takahashi",
+      "degree": "",
+      "profileUrl": ""
+    },
+    {
+      "role": "客員准教授",
+      "name": "山本 吉章",
+      "nameEn": "Yoshiaki Yamamoto",
+      "degree": "",
+      "profileUrl": ""
+    }
+  ],
+  "phdSocial": [
+    {
+      "name": "中條 倫成",
+      "nameEn": ""
+    },
+    {
+      "name": "猪又 健吾",
+      "nameEn": ""
+    }
+  ],
+  "phdYear3": [
+    {
+      "name": "金子 一太郎",
+      "nameEn": "Ichitaro Kaneko"
+    }
+  ],
+  "year6": [
+    {
+      "name": "寺田 陸人",
+      "nameEn": "Rikuto Terada"
+    },
+    {
+      "name": "望月 ひなた",
+      "nameEn": "Hinata Mochizuki"
+    },
+    {
+      "name": "谷代 優馬",
+      "nameEn": "Yuma Yashiro"
+    },
+    {
+      "name": "相良 康仁",
+      "nameEn": "Yasuhito Sagara"
+    }
+  ],
+  "year5": [
+    {
+      "name": "金子 真弓",
+      "nameEn": "Mayumi Kaneko"
+    },
+    {
+      "name": "小山 陽世",
+      "nameEn": "Hiyo Koyama"
+    },
+    {
+      "name": "髙野 瑚白",
+      "nameEn": "Kohaku Takano"
+    },
+    {
+      "name": "千原 瑠爾",
+      "nameEn": "Ryuji Chihara"
+    },
+    {
+      "name": "松本 彩花",
+      "nameEn": "Ayaka Matsumoto"
+    },
+    {
+      "name": "宮崎 乃郁",
+      "nameEn": "Noa Miyazaki"
+    }
+  ],
+  "year4": [
+    {
+      "name": "白須 絵里香",
+      "nameEn": "Erika Shirasu"
+    },
+    {
+      "name": "加藤 陽奈",
+      "nameEn": "Haruna Kato"
+    },
+    {
+      "name": "川本 慎子",
+      "nameEn": "Mako Kawamoto"
+    },
+    {
+      "name": "坂本 陽菜",
+      "nameEn": "Haruna Sakamoto"
+    },
+    {
+      "name": "澤﨑 由奈",
+      "nameEn": "Yuna Sawazaki"
+    },
+    {
+      "name": "澁谷 阿美",
+      "nameEn": "Ami Shibuya"
+    }
+  ],
+  "oldUrl": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category2/"
+}

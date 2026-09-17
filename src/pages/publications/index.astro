@@ -1,0 +1,29 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCollection } from 'astro:content';
+
+const items = (await getCollection('publications')).sort((a, b) => a.data.order - b.data.order);
+---
+
+<BaseLayout title="業績" description="論文・学会・著書などの業績一覧">
+  <section class="page-hero">
+    <div class="container">
+      <h1>業績</h1>
+      <p>論文、学会発表、著書などの業績一覧です。</p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:0">
+    <div class="container grid-2">
+      {
+        items.map((item) => (
+          <a class="topic-link panel" href={`/publications/${item.id}/`}>
+            <div>
+              <h3>{item.data.title}</h3>
+              <p>{item.data.description}</p>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

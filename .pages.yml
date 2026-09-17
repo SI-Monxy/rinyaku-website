@@ -1,0 +1,57 @@
+# Pages CMS 設定
+# ドキュメント: https://pagescms.org/docs/configuration
+# Cloudflare Pages 連携後、このリポジトリを接続すると /admin 相当の編集UIが使えます。
+
+media:
+  - name: images
+    label: 画像
+    input: public/images
+    output: /images
+
+content:
+  - name: news
+    label: お知らせ
+    path: src/content/news
+    type: collection
+    fields:
+      - name: title
+        label: タイトル
+        type: string
+        required: true
+      - name: description
+        label: 概要
+        type: string
+      - name: date
+        label: 日付
+        type: date
+        required: true
+      - name: draft
+        label: 下書き
+        type: boolean
+        default: false
+      - name: body
+        label: 本文
+        type: rich-text
+
+  - name: events
+    label: 行事
+    path: src/content/events
+    type: collection
+    fields:
+      - name: title
+        label: タイトル
+        type: string
+        required: true
+      - name: year
+        label: 年度
+        type: number
+        required: true
+      - name: description
+        label: 概要
+        type: string
+      - name: cover
+        label: カバー画像パス
+        type: string
+      - name: body
+        label: 本文
+        type: rich-text

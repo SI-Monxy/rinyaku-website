@@ -1,0 +1,111 @@
+---
+import '../styles/global.css';
+import site from '../data/site.json';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title, description = site.description } = Astro.props;
+const pageTitle = title ? `${title} | ${site.nameJa}` : `${site.universityJa} ${site.nameJa}`;
+const pathname = Astro.url.pathname;
+
+const nav = [
+  { href: '/', label: 'トップページ' },
+  { href: '/members/', label: 'メンバー' },
+  { href: '/research/', label: '研究内容' },
+  { href: '/activities/', label: '活動内容' },
+  { href: '/publications/', label: '業績' },
+  { href: '/events/', label: '行事' },
+  { href: '/training/', label: '実務実習' },
+  { href: '/news/', label: 'お知らせ' },
+];
+
+const isCurrent = (href: string) => {
+  if (href === '/') return pathname === '/';
+  return pathname.startsWith(href);
+};
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;700&family=Shippori+Mincho:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <header class="site-header" data-header>
+      <div class="container header-inner">
+        <a class="brand" href="/">
+          <span class="brand-kicker">{site.universityJa}</span>
+          <span class="brand-name">{site.nameJa}</span>
+        </a>
+        <button class="nav-toggle" type="button" data-nav-toggle aria-expanded="false">メニュー</button>
+        <nav class="nav" data-nav aria-label="メインメニュー">
+          {
+            nav.map((item) => (
+              <a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>
+                {item.label}
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <div class="footer-brand">{site.universityJa} {site.nameJa}</div>
+          <p class="note">{site.contact}<br />教授 {site.professor}</p>
+        </div>
+        <div>
+          <p class="note">
+            {
+              site.links.map((link, i) => (
+                <>
+                  {i > 0 && ' / '}
+                  <a href={link.href} target="_blank" rel="noreferrer">
+                    {link.label}
+                  </a>
+                </>
+              ))
+            }
+          </p>
+          <p class="note">Copyright © {new Date().getFullYear()} {site.nameJa}</p>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      const header = document.querySelector('[data-header]');
+      const toggle = document.querySelector('[data-nav-toggle]');
+      const nav = document.querySelector('[data-nav]');
+
+      const onScroll = () => {
+        header?.classList.toggle('is-scrolled', window.scrollY > 12);
+      };
+      onScroll();
+      window.addEventListener('scroll', onScroll, { passive: true });
+
+      toggle?.addEventListener('click', () => {
+        const open = nav?.classList.toggle('is-open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    </script>
+  </body>
+</html>

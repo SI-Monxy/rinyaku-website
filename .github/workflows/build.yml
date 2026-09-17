@@ -1,0 +1,20 @@
+# Cloudflare Pages 向けビルド確認用ワークフロー
+# Pages の Git 連携を使う場合は、こちらは任意です。
+name: Build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build

@@ -1,0 +1,30 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCollection } from 'astro:content';
+
+const items = (await getCollection('events')).sort((a, b) => b.data.year - a.data.year);
+---
+
+<BaseLayout title="行事" description="年度ごとの研究室行事アーカイブ">
+  <section class="page-hero">
+    <div class="container">
+      <h1>行事</h1>
+      <p>年度ごとの研究室イベントを紹介しています。</p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:0">
+    <div class="container grid-3">
+      {
+        items.map((item) => (
+          <a class="topic-link panel" href={`/events/${item.data.year}/`}>
+            <img src={item.data.cover} alt="" loading="lazy" width="640" height="480" />
+            <div>
+              <h3>{item.data.title}</h3>
+              <p>{item.data.description}</p>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

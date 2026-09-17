@@ -1,0 +1,300 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import site from '../data/site.json';
+import members from '../data/members.json';
+
+const research = (await getCollection('research')).sort((a, b) => a.data.order - b.data.order);
+const news = (await getCollection('news'))
+  .filter((n) => !n.data.draft)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 4);
+const events = (await getCollection('events')).sort((a, b) => b.data.year - a.data.year).slice(0, 6);
+
+const researchBlurb: Record<string, string> = {
+  pharmacokinetics: '薬物血中濃度と効果や副作用の相関性について研究しています。',
+  formulation: '粉体や軟膏、経口投与デバイスの開発を行っています。',
+  transdermal: '薬物輸送担体を用いた経皮吸収製剤の開発と評価を行っています。',
+  biologics: 'バイオ医薬品製剤中のタンパク質凝集体に関する研究を行っています。',
+  biomarker: '副作用の早期発見、治療成績向上のための各種バイオマーカーを評価しています。',
+  'stratum-corneum': '健常人、および皮膚疾患患者の角層構造について解析を行っています。',
+};
+
+const quickLinks = [
+  { href: '#research', number: '01', title: '研究を知る', note: '6つの研究領域' },
+  { href: '/members/', number: '02', title: '研究室を知る', note: 'メンバー・活動' },
+  { href: '#recruit', number: '03', title: '研究室を訪ねる', note: '大学院生募集' },
+  { href: '/training/', number: '04', title: '資料を探す', note: '実務実習関連' },
+];
+
+const lifeItems = [
+  {
+    number: '01',
+    title: '研究室ゼミ',
+    body: '全体ゼミと部屋ゼミを通じて、研究を多角的に深めます。',
+    href: '/activities/seminar/',
+  },
+  {
+    number: '02',
+    title: '薬物療法研修会',
+    body: '病院の現場で、薬物療法の最新知見と課題を共有します。',
+    href: '/activities/drug-therapy-seminar/',
+  },
+  {
+    number: '03',
+    title: '共同研究',
+    body: '病院や企業と連携し、臨床課題の解決に取り組みます。',
+    href: '/research/',
+  },
+];
+
+const facultyPreview = members.faculty.slice(0, 4);
+---
+
+<BaseLayout>
+  <div class="home">
+    <section class="home-hero" aria-labelledby="hero-title">
+      <div class="container home-hero-grid">
+        <div class="home-hero-copy">
+          <p class="eyebrow">{site.eyebrow}</p>
+          <p class="home-hero-brand">{site.universityJa}<br /><span>{site.nameJa}</span></p>
+          <h1 id="hero-title">
+            {site.headlineLines.map((line, index) => (
+              <>
+                {index > 0 && <br />}
+                {line}
+              </>
+            ))}
+          </h1>
+          <p class="home-lead">{site.lead}</p>
+          <div class="home-hero-actions">
+            <a class="button button-primary" href="#research">研究内容を見る</a>
+            <a class="button button-text" href="#recruit">大学院生募集</a>
+          </div>
+        </div>
+        <figure class="home-hero-figure">
+          <img src={site.heroImage} alt={`${site.nameJa}の集合写真`} width="960" height="720" />
+          <figcaption>
+            <strong>{site.heroCaption.title}</strong>
+            <span>{site.heroCaption.text}</span>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="home-hero-rule" aria-hidden="true"></div>
+    </section>
+
+    <nav class="quick-links" aria-label="目的別メニュー">
+      <div class="container quick-grid">
+        {
+          quickLinks.map((item) => (
+            <a href={item.href}>
+              <span class="quick-number">{item.number}</span>
+              <span class="quick-copy">
+                <strong>{item.title}</strong>
+                <small>{item.note}</small>
+              </span>
+              <span class="quick-arrow" aria-hidden="true">↗</span>
+            </a>
+          ))
+        }
+      </div>
+    </nav>
+
+    <section class="section home-intro" aria-labelledby="intro-title">
+      <div class="container intro-grid">
+        <div class="section-heading">
+          <p class="eyebrow">ABOUT US</p>
+          <h2 id="intro-title">{site.aboutTitle}</h2>
+        </div>
+        <div class="intro-body">
+          {site.aboutBody.map((paragraph) => <p>{paragraph}</p>)}
+          <div class="intro-facts" aria-label="研究室の特徴">
+            <div>
+              <strong>6</strong>
+              <span>研究領域</span>
+            </div>
+            <div>
+              <strong>2</strong>
+              <span>研究拠点</span>
+            </div>
+            <div>
+              <strong>産・学・医</strong>
+              <span>共同研究</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section home-research" id="research" aria-labelledby="research-title">
+      <div class="container">
+        <div class="section-topline">
+          <div class="section-heading">
+            <p class="eyebrow">RESEARCH</p>
+            <h2 id="research-title">研究内容</h2>
+          </div>
+          <p>患者さんの治療成績向上につながる課題を、6つの領域から探究しています。</p>
+        </div>
+
+        <div class="carousel research-carousel" data-carousel data-autoplay="4500">
+          <div class="carousel-track research-grid" data-carousel-track tabindex="0" aria-label="研究内容一覧">
+            {
+              research.map((item, index) => (
+                <a class="research-card carousel-slide" href={`/research/${item.id}/`}>
+                  <img src={item.data.cover} alt="" loading="lazy" width="640" height="400" />
+                  <div>
+                    <span>{String(index + 1).padStart(2, '0')}</span>
+                    <h3>{item.data.title}</h3>
+                    <p>{researchBlurb[item.id] ?? item.data.description}</p>
+                    <span class="research-more">
+                      詳しく見る <span aria-hidden="true">→</span>
+                    </span>
+                  </div>
+                </a>
+              ))
+            }
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section home-life" aria-labelledby="life-title">
+      <div class="container life-grid">
+        <div class="life-copy">
+          <p class="eyebrow">LAB LIFE</p>
+          <h2 id="life-title">学び、議論し、臨床へつなげる。</h2>
+          <p>
+            研究室では、全体ゼミ・部屋ゼミを行い、研究の進捗や論文について議論しています。また、月に1度、静岡県立総合病院で開かれる薬物療法研修会に参加しています。
+          </p>
+          <a class="button button-outline" href="/activities/">活動内容を見る</a>
+        </div>
+        <div class="activity-list">
+          {
+            lifeItems.map((item) => (
+              <article>
+                <span>{item.number}</span>
+                <div>
+                  <h3>
+                    <a href={item.href}>{item.title}</a>
+                  </h3>
+                  <p>{item.body}</p>
+                </div>
+              </article>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+
+    <section class="section home-members" aria-labelledby="members-title">
+      <div class="container members-grid">
+        <div class="section-heading">
+          <p class="eyebrow">MEMBERS</p>
+          <h2 id="members-title">メンバー</h2>
+          <p>教員、大学院生、学部生がそれぞれの専門性を持ち寄り、研究に取り組んでいます。</p>
+          <a class="button button-text" href="/members/">メンバー一覧へ</a>
+        </div>
+        <div class="faculty-list">
+          {
+            facultyPreview.map((person) => (
+              <div>
+                <span>{person.role}</span>
+                <strong>{person.name}</strong>
+                <small>{person.nameEn}{person.degree ? ` / ${person.degree}` : ''}</small>
+              </div>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+
+    <section class="home-recruit" id="recruit" aria-labelledby="recruit-title">
+      <div class="container recruit-inner">
+        <div>
+          <p class="eyebrow">FOR PROSPECTIVE STUDENTS</p>
+          <h2 id="recruit-title">大学院生を募集しています。</h2>
+          <p>
+            臨床薬剤学的な基礎および臨床研究に意欲的に取り組む、博士後期課程の学生を募集しています。研究室見学もお気軽にご相談ください。
+          </p>
+        </div>
+        <div class="recruit-actions">
+          <a class="button button-light" href={site.graduateExamUrl} target="_blank" rel="noopener noreferrer">
+            大学院入試情報
+          </a>
+          <p>
+            問い合わせ先<br />
+            <strong>
+              {site.contact}
+              <br />
+              教授　{site.professor}
+            </strong>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section home-updates" aria-labelledby="news-title">
+      <div class="container">
+        <div class="updates-grid">
+          <div class="section-heading">
+            <p class="eyebrow">NEWS & EVENTS</p>
+            <h2 id="news-title">お知らせ・行事</h2>
+            <p>研究室の最新情報と、年度ごとの行事アーカイブです。</p>
+          </div>
+          <div class="updates-main">
+            <ul class="news-list panel">
+              {
+                news.map((item) => (
+                  <li class="news-item">
+                    <time datetime={item.data.date.toISOString()}>
+                      {item.data.date.toLocaleDateString('ja-JP')}
+                    </time>
+                    <a href={`/news/${item.id}/`}>{item.data.title}</a>
+                  </li>
+                ))
+              }
+            </ul>
+            <div class="updates-events">
+              <div class="updates-block-head">
+                <h3>行事アーカイブ</h3>
+                <a href="/events/">行事一覧</a>
+              </div>
+              <div class="carousel events-carousel" data-carousel data-autoplay="4000">
+                <div class="carousel-track events-track" data-carousel-track tabindex="0" aria-label="行事一覧">
+                  {
+                    events.map((item) => (
+                      <a class="event-card carousel-slide" href={`/events/${item.data.year}/`}>
+                        <img src={item.data.cover} alt="" loading="lazy" width="480" height="320" />
+                        <span>
+                          <strong>{item.data.title}</strong>
+                          <small>{item.data.description}</small>
+                        </span>
+                      </a>
+                    ))
+                  }
+                </div>
+              </div>
+            </div>
+            <p class="home-more-links">
+              <a href="/news/">お知らせ一覧</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="home-training" aria-labelledby="training-title">
+      <div class="container training-inner">
+        <div class="download-icon" aria-hidden="true">↓</div>
+        <div>
+          <p class="eyebrow">FOR TRAINEES</p>
+          <h2 id="training-title">実務実習関連資料</h2>
+          <p>スケジュール雛形やレポートフォームなど、実務実習に必要なファイルを公開しています。</p>
+        </div>
+        <a class="button button-primary" href="/training/">資料をダウンロード</a>
+      </div>
+    </section>
+  </div>
+
+  <script src="../scripts/carousel.ts"></script>
+</BaseLayout>

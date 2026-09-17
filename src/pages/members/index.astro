@@ -1,0 +1,52 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import members from '../../data/members.json';
+
+const groups = [
+  { title: '教員', items: members.faculty },
+  { title: '博士課程（社会人）', items: members.phdSocial },
+  { title: '博士課程3年', items: members.phdYear3 },
+  { title: '6年生', items: members.year6 },
+  { title: '5年生', items: members.year5 },
+  { title: '4年生', items: members.year4 },
+];
+---
+
+<BaseLayout title="メンバー" description="臨床薬剤学分野のメンバー紹介">
+  <section class="page-hero">
+    <div class="container">
+      <h1>メンバー</h1>
+      <p>教員、大学院生、学部生がそれぞれの専門性を持ち寄り、研究に取り組んでいます。</p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0">
+    <div class="container">
+      {
+        groups.map((group) => (
+          <div class="member-group">
+            <h2>{group.title}</h2>
+            <div class="member-list">
+              {group.items.map((m) => (
+                <article class="member-card">
+                  {'role' in m && m.role ? <span class="role">{m.role}</span> : null}
+                  <div class="name">
+                    {'profileUrl' in m && m.profileUrl ? (
+                      <a href={m.profileUrl} target="_blank" rel="noreferrer">
+                        {m.name}
+                      </a>
+                    ) : (
+                      m.name
+                    )}
+                  </div>
+                  {m.nameEn ? <div class="en">{m.nameEn}</div> : null}
+                  {'degree' in m && m.degree ? <div class="note">{m.degree}</div> : null}
+                </article>
+              ))}
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

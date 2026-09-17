@@ -1,0 +1,33 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const items = await getCollection('research');
+  return items.map((item) => ({
+    params: { slug: item.id },
+    props: { item },
+  }));
+}
+
+const { item } = Astro.props;
+const { Content } = await render(item);
+---
+
+<BaseLayout title={item.data.title} description={item.data.description}>
+  <section class="page-hero">
+    <div class="container">
+      <p class="note"><a href="/research/">研究内容</a> / {item.data.title}</p>
+      <h1>{item.data.title}</h1>
+      <p>{item.data.description}</p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:0">
+    <div class="container">
+      <article class="prose">
+        <img src={item.data.cover} alt="" width="960" height="640" />
+        <Content />
+      </article>
+    </div>
+  </section>
+</BaseLayout>

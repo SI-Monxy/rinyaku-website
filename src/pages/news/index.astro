@@ -1,0 +1,32 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCollection } from 'astro:content';
+
+const items = (await getCollection('news'))
+  .filter((n) => !n.data.draft)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<BaseLayout title="お知らせ" description="研究室からのお知らせ">
+  <section class="page-hero">
+    <div class="container">
+      <h1>お知らせ</h1>
+      <p>研究室からの最新情報をお届けします。</p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:0">
+    <div class="container">
+      <ul class="news-list panel">
+        {
+          items.map((item) => (
+            <li class="news-item">
+              <time datetime={item.data.date.toISOString()}>{item.data.date.toLocaleDateString('ja-JP')}</time>
+              <a href={`/news/${item.id}/`}>{item.data.title}</a>
+              {item.data.description && <p class="note">{item.data.description}</p>}
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+</BaseLayout>

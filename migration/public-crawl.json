@@ -1,0 +1,4014 @@
+{
+  "pages": [
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/",
+      "path": "index.html",
+      "bytes": 6132
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category8/",
+      "path": "category8/index.html",
+      "bytes": 5443
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry45.html",
+      "path": "category7/entry45.html",
+      "bytes": 5221
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry43.html",
+      "path": "category7/entry43.html",
+      "bytes": 8138
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry42.html",
+      "path": "category7/entry42.html",
+      "bytes": 7408
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry41.html",
+      "path": "category7/entry41.html",
+      "bytes": 5965
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry39.html",
+      "path": "category7/entry39.html",
+      "bytes": 6053
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category2/",
+      "path": "category2/index.html",
+      "bytes": 5930
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/",
+      "path": "category3/index.html",
+      "bytes": 7636
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/",
+      "path": "category4/index.html",
+      "bytes": 4530
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/",
+      "path": "category6/index.html",
+      "bytes": 4858
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/",
+      "path": "category7/index.html",
+      "bytes": 7472
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18935
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/sitemap.html",
+      "path": "sitemap.html",
+      "bytes": 5880
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category8/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18946
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry45.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry43.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry42.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry41.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry39.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category2/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18946
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry21.html",
+      "path": "category3/entry21.html",
+      "bytes": 6741
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry22.html",
+      "path": "category3/entry22.html",
+      "bytes": 6324
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry23.html",
+      "path": "category3/entry23.html",
+      "bytes": 6366
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry34.html",
+      "path": "category3/entry34.html",
+      "bytes": 5965
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry35.html",
+      "path": "category3/entry35.html",
+      "bytes": 6649
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18946
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry11.html",
+      "path": "category4/entry11.html",
+      "bytes": 5700
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry16.html",
+      "path": "category4/entry16.html",
+      "bytes": 4809
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18946
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry12.html",
+      "path": "category6/entry12.html",
+      "bytes": 51853
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry15.html",
+      "path": "category6/entry15.html",
+      "bytes": 86358
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry13.html",
+      "path": "category6/entry13.html",
+      "bytes": 9465
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry25.html",
+      "path": "category6/entry25.html",
+      "bytes": 8257
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18946
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry38.html",
+      "path": "category7/entry38.html",
+      "bytes": 5397
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry36.html",
+      "path": "category7/entry36.html",
+      "bytes": 10674
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry31.html",
+      "path": "category7/entry31.html",
+      "bytes": 12989
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry28.html",
+      "path": "category7/entry28.html",
+      "bytes": 19355
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry27.html",
+      "path": "category7/entry27.html",
+      "bytes": 16357
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry17.html",
+      "path": "category7/entry17.html",
+      "bytes": 29485
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry18.html",
+      "path": "category7/entry18.html",
+      "bytes": 13958
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry19.html",
+      "path": "category7/entry19.html",
+      "bytes": 4353
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18946
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry21.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry22.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry23.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry34.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18954
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry35.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry11.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry16.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry12.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry15.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry13.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 19371
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry25.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry38.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18957
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry36.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry31.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry28.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry27.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry17.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18954
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry18.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    },
+    {
+      "url": "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry19.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+      "path": "plugins/like.php",
+      "bytes": 18958
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/styles.css",
+      "path": "styles.css",
+      "bytes": 21792
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rss.xml",
+      "path": "rss.xml",
+      "bytes": 2829
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb142660.jpg",
+      "path": "img/pb142660.jpg",
+      "bytes": 100873
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/univ_shizuoka.png",
+      "path": "img/univ_shizuoka.png",
+      "bytes": 14607
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026schedule.xlsx",
+      "path": "rinzaidownload/2026schedule.xlsx",
+      "bytes": 28672
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026schedule_kensou.xlsx",
+      "path": "rinzaidownload/2026schedule_kensou.xlsx",
+      "bytes": 41984
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026reportformpass.docx",
+      "path": "rinzaidownload/2026reportformpass.docx",
+      "bytes": 28672
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026rubricigainohyoukaformpass.xlsx",
+      "path": "rinzaidownload/2026rubricigainohyoukaformpass.xlsx",
+      "bytes": 182784
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026renkeidocumentspass.xlsx",
+      "path": "rinzaidownload/2026renkeidocumentspass.xlsx",
+      "bytes": 184320
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026houmoncheckpass.xlsx",
+      "path": "rinzaidownload/2026houmoncheckpass.xlsx",
+      "bytes": 28160
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2025jizenjisshu_report.pdf",
+      "path": "rinzaidownload/2025jizenjisshu_report.pdf",
+      "bytes": 228570
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252704.jpg",
+      "path": "img/pb252704.jpg",
+      "bytes": 52301
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252727.jpg",
+      "path": "img/pb252727.jpg",
+      "bytes": 53173
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252751.jpg",
+      "path": "img/pb252751.jpg",
+      "bytes": 48967
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252772.jpg",
+      "path": "img/pb252772.jpg",
+      "bytes": 50557
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252810.jpg",
+      "path": "img/pb252810.jpg",
+      "bytes": 52618
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252824.jpg",
+      "path": "img/pb252824.jpg",
+      "bytes": 50368
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252841.jpg",
+      "path": "img/pb252841.jpg",
+      "bytes": 60338
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4102147.jpg",
+      "path": "img/p4102147.jpg",
+      "bytes": 118410
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4102151.jpg",
+      "path": "img/p4102151.jpg",
+      "bytes": 109541
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4102155.jpg",
+      "path": "img/p4102155.jpg",
+      "bytes": 109576
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/20240410-1.jpg",
+      "path": "img/20240410-1.jpg",
+      "bytes": 112791
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4102178.jpg",
+      "path": "img/p4102178.jpg",
+      "bytes": 103626
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/410-9.jpg",
+      "path": "img/410-9.jpg",
+      "bytes": 97860
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/410-11.jpg",
+      "path": "img/410-11.jpg",
+      "bytes": 92133
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/410-27.jpg",
+      "path": "img/410-27.jpg",
+      "bytes": 109231
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/kjud0786.jpg",
+      "path": "img/kjud0786.jpg",
+      "bytes": 90717
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dvhk4777.jpg",
+      "path": "img/dvhk4777.jpg",
+      "bytes": 144657
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/caay8660.jpg",
+      "path": "img/caay8660.jpg",
+      "bytes": 66055
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/gghf4874.jpg",
+      "path": "img/gghf4874.jpg",
+      "bytes": 75522
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/bzfc1119.jpg",
+      "path": "img/bzfc1119.jpg",
+      "bytes": 144934
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/bskt9055.jpg",
+      "path": "img/bskt9055.jpg",
+      "bytes": 83026
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/vecr5354.jpg",
+      "path": "img/vecr5354.jpg",
+      "bytes": 95979
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262307.jpg",
+      "path": "img/pb262307.jpg",
+      "bytes": 49331
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262316.jpg",
+      "path": "img/pb262316.jpg",
+      "bytes": 48721
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262327.jpg",
+      "path": "img/pb262327.jpg",
+      "bytes": 51071
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262341.jpg",
+      "path": "img/pb262341.jpg",
+      "bytes": 52619
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262357.jpg",
+      "path": "img/pb262357.jpg",
+      "bytes": 51143
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262365.jpg",
+      "path": "img/pb262365.jpg",
+      "bytes": 48635
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262369.jpg",
+      "path": "img/pb262369.jpg",
+      "bytes": 64759
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2042371.jpg",
+      "path": "img/p2042371.jpg",
+      "bytes": 53803
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2042386.jpg",
+      "path": "img/p2042386.jpg",
+      "bytes": 53826
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2042394.jpg",
+      "path": "img/p2042394.jpg",
+      "bytes": 55753
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2042419.jpg",
+      "path": "img/p2042419.jpg",
+      "bytes": 55222
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2042449.jpg",
+      "path": "img/p2042449.jpg",
+      "bytes": 56522
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302004.jpg",
+      "path": "img/PB302004.jpg",
+      "bytes": 60521
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302007.jpg",
+      "path": "img/PB302007.jpg",
+      "bytes": 59239
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302022.jpg",
+      "path": "img/PB302022.jpg",
+      "bytes": 51050
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302030.jpg",
+      "path": "img/PB302030.jpg",
+      "bytes": 59672
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302037.jpg",
+      "path": "img/PB302037.jpg",
+      "bytes": 50331
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302039.jpg",
+      "path": "img/PB302039.jpg",
+      "bytes": 59758
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302042.jpg",
+      "path": "img/PB302042.jpg",
+      "bytes": 62920
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201537.jpg",
+      "path": "img/201537.jpg",
+      "bytes": 114407
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201581.jpg",
+      "path": "img/201581.jpg",
+      "bytes": 86084
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201518.jpg",
+      "path": "img/201518.jpg",
+      "bytes": 69169
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201655.jpg",
+      "path": "img/201655.jpg",
+      "bytes": 71308
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201522.jpg",
+      "path": "img/201522.jpg",
+      "bytes": 94555
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201400.jpg",
+      "path": "img/201400.jpg",
+      "bytes": 75431
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201404.jpg",
+      "path": "img/201404.jpg",
+      "bytes": 67159
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201717.jpg",
+      "path": "img/201717.jpg",
+      "bytes": 84104
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201599.jpg",
+      "path": "img/201599.jpg",
+      "bytes": 86887
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201629.jpg",
+      "path": "img/201629.jpg",
+      "bytes": 74232
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012052.jpg",
+      "path": "img/p2012052.jpg",
+      "bytes": 48851
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012055.jpg",
+      "path": "img/p2012055.jpg",
+      "bytes": 47629
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012067.jpg",
+      "path": "img/p2012067.jpg",
+      "bytes": 47250
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012076.jpg",
+      "path": "img/p2012076.jpg",
+      "bytes": 47988
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012084.jpg",
+      "path": "img/p2012084.jpg",
+      "bytes": 46200
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012090.jpg",
+      "path": "img/p2012090.jpg",
+      "bytes": 46126
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2082095.jpg",
+      "path": "img/p2082095.jpg",
+      "bytes": 73580
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051799.jpg",
+      "path": "img/pc051799.jpg",
+      "bytes": 72904
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051808.jpg",
+      "path": "img/pc051808.jpg",
+      "bytes": 68591
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051818.jpg",
+      "path": "img/pc051818.jpg",
+      "bytes": 74694
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051829.jpg",
+      "path": "img/pc051829.jpg",
+      "bytes": 65178
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051852.jpg",
+      "path": "img/pc051852.jpg",
+      "bytes": 72511
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051860.jpg",
+      "path": "img/pc051860.jpg",
+      "bytes": 81780
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011873.jpg",
+      "path": "img/p2011873.jpg",
+      "bytes": 45087
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011877.jpg",
+      "path": "img/p2011877.jpg",
+      "bytes": 44133
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011884.jpg",
+      "path": "img/p2011884.jpg",
+      "bytes": 43404
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011893.jpg",
+      "path": "img/p2011893.jpg",
+      "bytes": 47155
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011900.jpg",
+      "path": "img/p2011900.jpg",
+      "bytes": 45479
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2161971.jpg",
+      "path": "img/p2161971.jpg",
+      "bytes": 47863
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031907.jpg",
+      "path": "img/p2031907.jpg",
+      "bytes": 74261
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021600.jpg",
+      "path": "img/pc021600.jpg",
+      "bytes": 104894
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021613.jpg",
+      "path": "img/pc021613.jpg",
+      "bytes": 110713
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021618.jpg",
+      "path": "img/pc021618.jpg",
+      "bytes": 80820
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021626.jpg",
+      "path": "img/pc021626.jpg",
+      "bytes": 77103
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021642.jpg",
+      "path": "img/pc021642.jpg",
+      "bytes": 100631
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021650.jpg",
+      "path": "img/pc021650.jpg",
+      "bytes": 103786
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021653.jpg",
+      "path": "img/pc021653.jpg",
+      "bytes": 82902
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011656.jpg",
+      "path": "img/p2011656.jpg",
+      "bytes": 6410618
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011659.jpg",
+      "path": "img/p2011659.jpg",
+      "bytes": 4668921
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011661.jpg",
+      "path": "img/p2011661.jpg",
+      "bytes": 4527394
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011664.jpg",
+      "path": "img/p2011664.jpg",
+      "bytes": 4793961
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011667.jpg",
+      "path": "img/p2011667.jpg",
+      "bytes": 6487765
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011670.jpg",
+      "path": "img/p2011670.jpg",
+      "bytes": 4687604
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011674.jpg",
+      "path": "img/p2011674.jpg",
+      "bytes": 5844825
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/clipimage_01.jpg",
+      "path": "img/clipimage_01.jpg",
+      "bytes": 58370
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/doutai.jpg",
+      "path": "img/doutai.jpg",
+      "bytes": 36035
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/seizai.jpg",
+      "path": "img/seizai.jpg",
+      "bytes": 70553
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/baio_top.png",
+      "path": "img/baio_top.png",
+      "bytes": 290877
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/biomarker.png",
+      "path": "img/biomarker.png",
+      "bytes": 194295
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/ceramide3.png",
+      "path": "img/ceramide3.png",
+      "bytes": 101267
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/clipimage_04.jpg",
+      "path": "img/clipimage_04.jpg",
+      "bytes": 91124
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/seizai2.jpg",
+      "path": "img/seizai2.jpg",
+      "bytes": 88641
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/keihipage.png",
+      "path": "img/keihipage.png",
+      "bytes": 1116784
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/4.png",
+      "path": "img/4.png",
+      "bytes": 87518
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/vanin1.png",
+      "path": "img/vanin1.png",
+      "bytes": 168313
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/ceramide_1.png",
+      "path": "img/ceramide_1.png",
+      "bytes": 585943
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/ceramide_2.png",
+      "path": "img/ceramide_2.png",
+      "bytes": 199438
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021469.jpg",
+      "path": "img/pc021469.jpg",
+      "bytes": 45109
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021473.jpg",
+      "path": "img/pc021473.jpg",
+      "bytes": 62702
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031480.jpg",
+      "path": "img/p2031480.jpg",
+      "bytes": 46201
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031484.jpg",
+      "path": "img/p2031484.jpg",
+      "bytes": 45512
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031488.jpg",
+      "path": "img/p2031488.jpg",
+      "bytes": 44235
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031494.jpg",
+      "path": "img/p2031494.jpg",
+      "bytes": 47966
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031500.jpg",
+      "path": "img/p2031500.jpg",
+      "bytes": 45906
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031503.jpg",
+      "path": "img/p2031503.jpg",
+      "bytes": 63439
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080601.jpg",
+      "path": "img/p4080601.jpg",
+      "bytes": 111753
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080607.jpg",
+      "path": "img/p4080607.jpg",
+      "bytes": 114943
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080608.jpg",
+      "path": "img/p4080608.jpg",
+      "bytes": 124360
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080611.jpg",
+      "path": "img/p4080611.jpg",
+      "bytes": 120887
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080613.jpg",
+      "path": "img/p4080613.jpg",
+      "bytes": 114534
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080615.jpg",
+      "path": "img/p4080615.jpg",
+      "bytes": 119887
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240628.jpg",
+      "path": "img/p4240628.jpg",
+      "bytes": 76605
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240634.jpg",
+      "path": "img/p4240634.jpg",
+      "bytes": 65321
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240632.jpg",
+      "path": "img/p4240632.jpg",
+      "bytes": 65196
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240637.jpg",
+      "path": "img/p4240637.jpg",
+      "bytes": 56609
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240638.jpg",
+      "path": "img/p4240638.jpg",
+      "bytes": 72507
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240640.jpg",
+      "path": "img/p4240640.jpg",
+      "bytes": 57951
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240641.jpg",
+      "path": "img/p4240641.jpg",
+      "bytes": 62507
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240642.jpg",
+      "path": "img/p4240642.jpg",
+      "bytes": 64092
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240643.jpg",
+      "path": "img/p4240643.jpg",
+      "bytes": 68072
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240644.jpg",
+      "path": "img/p4240644.jpg",
+      "bytes": 71282
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240645.jpg",
+      "path": "img/p4240645.jpg",
+      "bytes": 64995
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/kimg3059.jpg",
+      "path": "img/kimg3059.jpg",
+      "bytes": 95621
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8230960.jpg",
+      "path": "img/p8230960.jpg",
+      "bytes": 74129
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8230963.jpg",
+      "path": "img/p8230963.jpg",
+      "bytes": 82582
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8230965.jpg",
+      "path": "img/p8230965.jpg",
+      "bytes": 68330
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8230988.jpg",
+      "path": "img/p8230988.jpg",
+      "bytes": 118563
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8230976.jpg",
+      "path": "img/p8230976.jpg",
+      "bytes": 93528
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231008.jpg",
+      "path": "img/p8231008.jpg",
+      "bytes": 103537
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231012.jpg",
+      "path": "img/p8231012.jpg",
+      "bytes": 103194
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231030.jpg",
+      "path": "img/p8231030.jpg",
+      "bytes": 81777
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231024.jpg",
+      "path": "img/p8231024.jpg",
+      "bytes": 89315
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231037.jpg",
+      "path": "img/p8231037.jpg",
+      "bytes": 84689
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231039.jpg",
+      "path": "img/p8231039.jpg",
+      "bytes": 76834
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231042.jpg",
+      "path": "img/p8231042.jpg",
+      "bytes": 96414
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231071.jpg",
+      "path": "img/p8231071.jpg",
+      "bytes": 63047
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231081.jpg",
+      "path": "img/p8231081.jpg",
+      "bytes": 77315
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231087.jpg",
+      "path": "img/p8231087.jpg",
+      "bytes": 102050
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231092.jpg",
+      "path": "img/p8231092.jpg",
+      "bytes": 74593
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p9192919.jpg",
+      "path": "img/p9192919.jpg",
+      "bytes": 93450
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p9192932.jpg",
+      "path": "img/p9192932.jpg",
+      "bytes": 75617
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201107.jpg",
+      "path": "img/pa201107.jpg",
+      "bytes": 65902
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201146.jpg",
+      "path": "img/pa201146.jpg",
+      "bytes": 56768
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201168.jpg",
+      "path": "img/pa201168.jpg",
+      "bytes": 44250
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201154.jpg",
+      "path": "img/pa201154.jpg",
+      "bytes": 78238
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201155.jpg",
+      "path": "img/pa201155.jpg",
+      "bytes": 87422
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201156.jpg",
+      "path": "img/pa201156.jpg",
+      "bytes": 79496
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201157.jpg",
+      "path": "img/pa201157.jpg",
+      "bytes": 89543
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201158.jpg",
+      "path": "img/pa201158.jpg",
+      "bytes": 88282
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4031581.jpg",
+      "path": "img/p4031581.jpg",
+      "bytes": 138634
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4031560.jpg",
+      "path": "img/p4031560.jpg",
+      "bytes": 179371
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4031564.jpg",
+      "path": "img/p4031564.jpg",
+      "bytes": 163722
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4121671.jpg",
+      "path": "img/p4121671.jpg",
+      "bytes": 176981
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4121669.jpg",
+      "path": "img/p4121669.jpg",
+      "bytes": 173120
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4031557.jpg",
+      "path": "img/p4031557.jpg",
+      "bytes": 193650
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4031566.jpg",
+      "path": "img/p4031566.jpg",
+      "bytes": 184232
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/imagesala.jpg",
+      "path": "img/imagesala.jpg",
+      "bytes": 92579
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251674.jpg",
+      "path": "img/p4251674.jpg",
+      "bytes": 98224
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251676.jpg",
+      "path": "img/p4251676.jpg",
+      "bytes": 99723
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251683.jpg",
+      "path": "img/p4251683.jpg",
+      "bytes": 98370
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251695.jpg",
+      "path": "img/p4251695.jpg",
+      "bytes": 95094
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251685.jpg",
+      "path": "img/p4251685.jpg",
+      "bytes": 80297
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251686.jpg",
+      "path": "img/p4251686.jpg",
+      "bytes": 84684
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251687.jpg",
+      "path": "img/p4251687.jpg",
+      "bytes": 88540
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251688.jpg",
+      "path": "img/p4251688.jpg",
+      "bytes": 87795
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251689.jpg",
+      "path": "img/p4251689.jpg",
+      "bytes": 89894
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251690.jpg",
+      "path": "img/p4251690.jpg",
+      "bytes": 89595
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251693.jpg",
+      "path": "img/p4251693.jpg",
+      "bytes": 84919
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211873.JPG",
+      "path": "img/PA211873.JPG",
+      "bytes": 5703981
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211878.JPG",
+      "path": "img/PA211878.JPG",
+      "bytes": 6014426
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211875.JPG",
+      "path": "img/PA211875.JPG",
+      "bytes": 4690005
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211858.JPG",
+      "path": "img/PA211858.JPG",
+      "bytes": 6115693
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211831.JPG",
+      "path": "img/PA211831.JPG",
+      "bytes": 6367236
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211870.JPG",
+      "path": "img/PA211870.JPG",
+      "bytes": 5469473
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211851.JPG",
+      "path": "img/PA211851.JPG",
+      "bytes": 6107597
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211793.JPG",
+      "path": "img/PA211793.JPG",
+      "bytes": 5657205
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211780.JPG",
+      "path": "img/PA211780.JPG",
+      "bytes": 5555205
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211802.JPG",
+      "path": "img/PA211802.JPG",
+      "bytes": 5679341
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211800.JPG",
+      "path": "img/PA211800.JPG",
+      "bytes": 6076353
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211797.JPG",
+      "path": "img/PA211797.JPG",
+      "bytes": 5439976
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211790.JPG",
+      "path": "img/PA211790.JPG",
+      "bytes": 5573515
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211817.JPG",
+      "path": "img/PA211817.JPG",
+      "bytes": 5338209
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211895.JPG",
+      "path": "img/PA211895.JPG",
+      "bytes": 4444949
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211907.JPG",
+      "path": "img/PA211907.JPG",
+      "bytes": 5774741
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062014.jpg",
+      "path": "img/pc062014.jpg",
+      "bytes": 52791
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062015.jpg",
+      "path": "img/pc062015.jpg",
+      "bytes": 49496
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062019.jpg",
+      "path": "img/pc062019.jpg",
+      "bytes": 50499
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062023.jpg",
+      "path": "img/pc062023.jpg",
+      "bytes": 47012
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062027.jpg",
+      "path": "img/pc062027.jpg",
+      "bytes": 50395
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062033.jpg",
+      "path": "img/pc062033.jpg",
+      "bytes": 53353
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062039.jpg",
+      "path": "img/pc062039.jpg",
+      "bytes": 60043
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210074.jpg",
+      "path": "img/pc210074.jpg",
+      "bytes": 70716
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210258.jpg",
+      "path": "img/pc210258.jpg",
+      "bytes": 69677
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210114.jpg",
+      "path": "img/pc210114.jpg",
+      "bytes": 74642
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210125.jpg",
+      "path": "img/pc210125.jpg",
+      "bytes": 74816
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210127.jpg",
+      "path": "img/pc210127.jpg",
+      "bytes": 69753
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210157.jpg",
+      "path": "img/pc210157.jpg",
+      "bytes": 71062
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210282.jpg",
+      "path": "img/pc210282.jpg",
+      "bytes": 71813
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210313.jpg",
+      "path": "img/pc210313.jpg",
+      "bytes": 80656
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210315.jpg",
+      "path": "img/pc210315.jpg",
+      "bytes": 86703
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210320.jpg",
+      "path": "img/pc210320.jpg",
+      "bytes": 87653
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2080385.jpg",
+      "path": "img/p2080385.jpg",
+      "bytes": 47459
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2080387.jpg",
+      "path": "img/p2080387.jpg",
+      "bytes": 47437
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2080391.jpg",
+      "path": "img/p2080391.jpg",
+      "bytes": 49234
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2080393.jpg",
+      "path": "img/p2080393.jpg",
+      "bytes": 48781
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200563.jpg",
+      "path": "img/p3200563.jpg",
+      "bytes": 78040
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200472.jpg",
+      "path": "img/p3200472.jpg",
+      "bytes": 75650
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200482.jpg",
+      "path": "img/p3200482.jpg",
+      "bytes": 76559
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200487.jpg",
+      "path": "img/p3200487.jpg",
+      "bytes": 79653
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200494.jpg",
+      "path": "img/p3200494.jpg",
+      "bytes": 85546
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200499.jpg",
+      "path": "img/p3200499.jpg",
+      "bytes": 75494
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200489.jpg",
+      "path": "img/p3200489.jpg",
+      "bytes": 81332
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200507.jpg",
+      "path": "img/p3200507.jpg",
+      "bytes": 91721
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200591.jpg",
+      "path": "img/p3200591.jpg",
+      "bytes": 68795
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130599.jpg",
+      "path": "img/p4130599.jpg",
+      "bytes": 187803
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130603.jpg",
+      "path": "img/p4130603.jpg",
+      "bytes": 168752
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130605.jpg",
+      "path": "img/p4130605.jpg",
+      "bytes": 179813
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130608.jpg",
+      "path": "img/p4130608.jpg",
+      "bytes": 171207
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130613.jpg",
+      "path": "img/p4130613.jpg",
+      "bytes": 193723
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130617.jpg",
+      "path": "img/p4130617.jpg",
+      "bytes": 207358
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130620.jpg",
+      "path": "img/p4130620.jpg",
+      "bytes": 199579
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190626.jpg",
+      "path": "img/p4190626.jpg",
+      "bytes": 94031
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190629.jpg",
+      "path": "img/p4190629.jpg",
+      "bytes": 98582
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190632.jpg",
+      "path": "img/p4190632.jpg",
+      "bytes": 97693
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190633.jpg",
+      "path": "img/p4190633.jpg",
+      "bytes": 93185
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190639.jpg",
+      "path": "img/p4190639.jpg",
+      "bytes": 94371
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190625.jpg",
+      "path": "img/p4190625.jpg",
+      "bytes": 103372
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190641.jpg",
+      "path": "img/p4190641.jpg",
+      "bytes": 87959
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190643.jpg",
+      "path": "img/p4190643.jpg",
+      "bytes": 109184
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190645.jpg",
+      "path": "img/p4190645.jpg",
+      "bytes": 94141
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190649.jpg",
+      "path": "img/p4190649.jpg",
+      "bytes": 95812
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190650.jpg",
+      "path": "img/p4190650.jpg",
+      "bytes": 120744
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190651.jpg",
+      "path": "img/p4190651.jpg",
+      "bytes": 121775
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190652.jpg",
+      "path": "img/p4190652.jpg",
+      "bytes": 114033
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190654.jpg",
+      "path": "img/p4190654.jpg",
+      "bytes": 116099
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210734.jpg",
+      "path": "img/p8210734.jpg",
+      "bytes": 136328
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210742.jpg",
+      "path": "img/p8210742.jpg",
+      "bytes": 113367
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210731.jpg",
+      "path": "img/p8210731.jpg",
+      "bytes": 130950
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210738.jpg",
+      "path": "img/p8210738.jpg",
+      "bytes": 109750
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210769.jpg",
+      "path": "img/p8210769.jpg",
+      "bytes": 124305
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210755.jpg",
+      "path": "img/p8210755.jpg",
+      "bytes": 137020
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210775.jpg",
+      "path": "img/p8210775.jpg",
+      "bytes": 129773
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210770.jpg",
+      "path": "img/p8210770.jpg",
+      "bytes": 112718
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210825.jpg",
+      "path": "img/p8210825.jpg",
+      "bytes": 143478
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210847.jpg",
+      "path": "img/p8210847.jpg",
+      "bytes": 123640
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210837.jpg",
+      "path": "img/p8210837.jpg",
+      "bytes": 115831
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210834.jpg",
+      "path": "img/p8210834.jpg",
+      "bytes": 113714
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210833.jpg",
+      "path": "img/p8210833.jpg",
+      "bytes": 120206
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210850.jpg",
+      "path": "img/p8210850.jpg",
+      "bytes": 169148
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210863.jpg",
+      "path": "img/p8210863.jpg",
+      "bytes": 119239
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210860.jpg",
+      "path": "img/p8210860.jpg",
+      "bytes": 126720
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210885.jpg",
+      "path": "img/p8210885.jpg",
+      "bytes": 127238
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210911.jpg",
+      "path": "img/p8210911.jpg",
+      "bytes": 112262
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210979.jpg",
+      "path": "img/p8210979.jpg",
+      "bytes": 112048
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8220994.jpg",
+      "path": "img/p8220994.jpg",
+      "bytes": 103184
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8220998.jpg",
+      "path": "img/p8220998.jpg",
+      "bytes": 120878
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221023.jpg",
+      "path": "img/p8221023.jpg",
+      "bytes": 153637
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221048.jpg",
+      "path": "img/p8221048.jpg",
+      "bytes": 121556
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221027.jpg",
+      "path": "img/p8221027.jpg",
+      "bytes": 197850
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221063.jpg",
+      "path": "img/p8221063.jpg",
+      "bytes": 154617
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221061.jpg",
+      "path": "img/p8221061.jpg",
+      "bytes": 149070
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221076.jpg",
+      "path": "img/p8221076.jpg",
+      "bytes": 134659
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221079.jpg",
+      "path": "img/p8221079.jpg",
+      "bytes": 143935
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221100.jpg",
+      "path": "img/p8221100.jpg",
+      "bytes": 105074
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221094.jpg",
+      "path": "img/p8221094.jpg",
+      "bytes": 95913
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221096.jpg",
+      "path": "img/p8221096.jpg",
+      "bytes": 97102
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221103.jpg",
+      "path": "img/p8221103.jpg",
+      "bytes": 120462
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281213.jpg",
+      "path": "img/pa281213.jpg",
+      "bytes": 117444
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281146.jpg",
+      "path": "img/pa281146.jpg",
+      "bytes": 105098
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281210.jpg",
+      "path": "img/pa281210.jpg",
+      "bytes": 94365
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281199.jpg",
+      "path": "img/pa281199.jpg",
+      "bytes": 115033
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281201.jpg",
+      "path": "img/pa281201.jpg",
+      "bytes": 103946
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281211.jpg",
+      "path": "img/pa281211.jpg",
+      "bytes": 112621
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281212.jpg",
+      "path": "img/pa281212.jpg",
+      "bytes": 111347
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051233.jpg",
+      "path": "img/pc051233.jpg",
+      "bytes": 82161
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051237.jpg",
+      "path": "img/pc051237.jpg",
+      "bytes": 81599
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051246.jpg",
+      "path": "img/pc051246.jpg",
+      "bytes": 81174
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051255.jpg",
+      "path": "img/pc051255.jpg",
+      "bytes": 85339
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051267.jpg",
+      "path": "img/pc051267.jpg",
+      "bytes": 86779
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051282.jpg",
+      "path": "img/pc051282.jpg",
+      "bytes": 85722
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051289.jpg",
+      "path": "img/pc051289.jpg",
+      "bytes": 92746
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221299.jpg",
+      "path": "img/pc221299.jpg",
+      "bytes": 122929
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221309.jpg",
+      "path": "img/pc221309.jpg",
+      "bytes": 96109
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221296.jpg",
+      "path": "img/pc221296.jpg",
+      "bytes": 99871
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221334.jpg",
+      "path": "img/pc221334.jpg",
+      "bytes": 120542
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221328.jpg",
+      "path": "img/pc221328.jpg",
+      "bytes": 89195
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221305.jpg",
+      "path": "img/pc221305.jpg",
+      "bytes": 134256
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221348.jpg",
+      "path": "img/pc221348.jpg",
+      "bytes": 96237
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221359.jpg",
+      "path": "img/pc221359.jpg",
+      "bytes": 111877
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221357.jpg",
+      "path": "img/pc221357.jpg",
+      "bytes": 113555
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221360.jpg",
+      "path": "img/pc221360.jpg",
+      "bytes": 112003
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221362.jpg",
+      "path": "img/pc221362.jpg",
+      "bytes": 109367
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221363.jpg",
+      "path": "img/pc221363.jpg",
+      "bytes": 108696
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221364.jpg",
+      "path": "img/pc221364.jpg",
+      "bytes": 112436
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221374.jpg",
+      "path": "img/pc221374.jpg",
+      "bytes": 100380
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221386.jpg",
+      "path": "img/pc221386.jpg",
+      "bytes": 105058
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221393.jpg",
+      "path": "img/pc221393.jpg",
+      "bytes": 97082
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221391.jpg",
+      "path": "img/pc221391.jpg",
+      "bytes": 130430
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221389.jpg",
+      "path": "img/pc221389.jpg",
+      "bytes": 113507
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221397.jpg",
+      "path": "img/pc221397.jpg",
+      "bytes": 110104
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221399.jpg",
+      "path": "img/pc221399.jpg",
+      "bytes": 95141
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221400.jpg",
+      "path": "img/pc221400.jpg",
+      "bytes": 97569
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221402.jpg",
+      "path": "img/pc221402.jpg",
+      "bytes": 111381
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221403.jpg",
+      "path": "img/pc221403.jpg",
+      "bytes": 99432
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221404.jpg",
+      "path": "img/pc221404.jpg",
+      "bytes": 91214
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221406.jpg",
+      "path": "img/pc221406.jpg",
+      "bytes": 110503
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221407.jpg",
+      "path": "img/pc221407.jpg",
+      "bytes": 109800
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221409.jpg",
+      "path": "img/pc221409.jpg",
+      "bytes": 112013
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061419.jpg",
+      "path": "img/p2061419.jpg",
+      "bytes": 86715
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061423.jpg",
+      "path": "img/p2061423.jpg",
+      "bytes": 85014
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061432.jpg",
+      "path": "img/p2061432.jpg",
+      "bytes": 85805
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061444.jpg",
+      "path": "img/p2061444.jpg",
+      "bytes": 85856
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061448.jpg",
+      "path": "img/p2061448.jpg",
+      "bytes": 85132
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061456.jpg",
+      "path": "img/p2061456.jpg",
+      "bytes": 89164
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/image1.jpg",
+      "path": "img/image1.jpg",
+      "bytes": 91159
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1.jpg",
+      "path": "img/1.jpg",
+      "bytes": 77005
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/2.jpg",
+      "path": "img/2.jpg",
+      "bytes": 78739
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/4.jpg",
+      "path": "img/4.jpg",
+      "bytes": 82519
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201527.jpg",
+      "path": "img/p3201527.jpg",
+      "bytes": 171568
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201458.jpg",
+      "path": "img/p3201458.jpg",
+      "bytes": 123131
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201461.jpg",
+      "path": "img/p3201461.jpg",
+      "bytes": 124424
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201463.jpg",
+      "path": "img/p3201463.jpg",
+      "bytes": 128153
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201467.jpg",
+      "path": "img/p3201467.jpg",
+      "bytes": 136043
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201462.jpg",
+      "path": "img/p3201462.jpg",
+      "bytes": 123745
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201469.jpg",
+      "path": "img/p3201469.jpg",
+      "bytes": 163662
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201550.jpg",
+      "path": "img/p3201550.jpg",
+      "bytes": 116979
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201551.jpg",
+      "path": "img/p3201551.jpg",
+      "bytes": 109948
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201552.jpg",
+      "path": "img/p3201552.jpg",
+      "bytes": 112031
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201556.jpg",
+      "path": "img/p3201556.jpg",
+      "bytes": 122694
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2828.jpg",
+      "path": "img/_mg_2828.jpg",
+      "bytes": 184030
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2830.jpg",
+      "path": "img/_mg_2830.jpg",
+      "bytes": 199655
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2835.jpg",
+      "path": "img/_mg_2835.jpg",
+      "bytes": 207777
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2836.jpg",
+      "path": "img/_mg_2836.jpg",
+      "bytes": 198238
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2840.jpg",
+      "path": "img/_mg_2840.jpg",
+      "bytes": 185724
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2841.jpg",
+      "path": "img/_mg_2841.jpg",
+      "bytes": 199172
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2814.jpg",
+      "path": "img/_mg_2814.jpg",
+      "bytes": 156319
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2823.jpg",
+      "path": "img/_mg_2823.jpg",
+      "bytes": 221363
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2903.jpg",
+      "path": "img/img_2903.jpg",
+      "bytes": 88102
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2906.jpg",
+      "path": "img/img_2906.jpg",
+      "bytes": 103485
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2907.jpg",
+      "path": "img/img_2907.jpg",
+      "bytes": 82825
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2894.jpg",
+      "path": "img/img_2894.jpg",
+      "bytes": 80089
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2896.jpg",
+      "path": "img/img_2896.jpg",
+      "bytes": 76446
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2901.jpg",
+      "path": "img/img_2901.jpg",
+      "bytes": 89631
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2883.jpg",
+      "path": "img/img_2883.jpg",
+      "bytes": 91839
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2886.jpg",
+      "path": "img/img_2886.jpg",
+      "bytes": 132405
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961587213.jpg",
+      "path": "img/1472961587213.jpg",
+      "bytes": 61045
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961590104.jpg",
+      "path": "img/1472961590104.jpg",
+      "bytes": 60720
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_3472.jpg",
+      "path": "img/_mg_3472.jpg",
+      "bytes": 131256
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_3475.jpg",
+      "path": "img/_mg_3475.jpg",
+      "bytes": 169501
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3522.jpg",
+      "path": "img/img_3522.jpg",
+      "bytes": 170189
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3498.jpg",
+      "path": "img/img_3498.jpg",
+      "bytes": 115341
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3507.jpg",
+      "path": "img/img_3507.jpg",
+      "bytes": 125530
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3509.jpg",
+      "path": "img/img_3509.jpg",
+      "bytes": 125761
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3526.jpg",
+      "path": "img/img_3526.jpg",
+      "bytes": 82201
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3534.jpg",
+      "path": "img/img_3534.jpg",
+      "bytes": 166653
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3533.jpg",
+      "path": "img/img_3533.jpg",
+      "bytes": 171242
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3600.jpg",
+      "path": "img/img_3600.jpg",
+      "bytes": 146751
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3626.jpg",
+      "path": "img/img_3626.jpg",
+      "bytes": 91284
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961664536.jpg",
+      "path": "img/1472961664536.jpg",
+      "bytes": 94356
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961667922.jpg",
+      "path": "img/1472961667922.jpg",
+      "bytes": 100059
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3680.jpg",
+      "path": "img/img_3680.jpg",
+      "bytes": 197629
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3696.jpg",
+      "path": "img/img_3696.jpg",
+      "bytes": 155569
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3687.jpg",
+      "path": "img/img_3687.jpg",
+      "bytes": 132364
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3697.jpg",
+      "path": "img/img_3697.jpg",
+      "bytes": 200192
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3705.jpg",
+      "path": "img/img_3705.jpg",
+      "bytes": 200685
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_3750.jpg",
+      "path": "img/_mg_3750.jpg",
+      "bytes": 156586
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3707.jpg",
+      "path": "img/img_3707.jpg",
+      "bytes": 128432
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961562478.jpg",
+      "path": "img/1472961562478.jpg",
+      "bytes": 132733
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3713.jpg",
+      "path": "img/img_3713.jpg",
+      "bytes": 170889
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/40890.jpg",
+      "path": "img/40890.jpg",
+      "bytes": 106351
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3716.jpg",
+      "path": "img/img_3716.jpg",
+      "bytes": 143952
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961576977.jpg",
+      "path": "img/1472961576977.jpg",
+      "bytes": 74049
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961597735.jpg",
+      "path": "img/1472961597735.jpg",
+      "bytes": 97087
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/40891.jpg",
+      "path": "img/40891.jpg",
+      "bytes": 74254
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3763.jpg",
+      "path": "img/img_3763.jpg",
+      "bytes": 153785
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3765.jpg",
+      "path": "img/img_3765.jpg",
+      "bytes": 166448
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3768.jpg",
+      "path": "img/img_3768.jpg",
+      "bytes": 143926
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060028.jpg",
+      "path": "img/pc060028.jpg",
+      "bytes": 76040
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060037.jpg",
+      "path": "img/pc060037.jpg",
+      "bytes": 71206
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060039.jpg",
+      "path": "img/pc060039.jpg",
+      "bytes": 76551
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060047.jpg",
+      "path": "img/pc060047.jpg",
+      "bytes": 79542
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060054.jpg",
+      "path": "img/pc060054.jpg",
+      "bytes": 78355
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060060.jpg",
+      "path": "img/pc060060.jpg",
+      "bytes": 119415
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210150.jpg",
+      "path": "img/pc210150.jpg",
+      "bytes": 105738
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210168.jpg",
+      "path": "img/pc210168.jpg",
+      "bytes": 72536
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210199.jpg",
+      "path": "img/pc210199.jpg",
+      "bytes": 93189
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210208.jpg",
+      "path": "img/pc210208.jpg",
+      "bytes": 146543
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210210.jpg",
+      "path": "img/pc210210.jpg",
+      "bytes": 101219
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210212.jpg",
+      "path": "img/pc210212.jpg",
+      "bytes": 104954
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210213.jpg",
+      "path": "img/pc210213.jpg",
+      "bytes": 98826
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210214.jpg",
+      "path": "img/pc210214.jpg",
+      "bytes": 102473
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210216.jpg",
+      "path": "img/pc210216.jpg",
+      "bytes": 101698
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210280.jpg",
+      "path": "img/pc210280.jpg",
+      "bytes": 94285
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210283.jpg",
+      "path": "img/pc210283.jpg",
+      "bytes": 86179
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210284.jpg",
+      "path": "img/pc210284.jpg",
+      "bytes": 98220
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210285.jpg",
+      "path": "img/pc210285.jpg",
+      "bytes": 82568
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210286.jpg",
+      "path": "img/pc210286.jpg",
+      "bytes": 91658
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210288.jpg",
+      "path": "img/pc210288.jpg",
+      "bytes": 95108
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210296.jpg",
+      "path": "img/pc210296.jpg",
+      "bytes": 108047
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130330.jpg",
+      "path": "img/p2130330.jpg",
+      "bytes": 82631
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130341.jpg",
+      "path": "img/p2130341.jpg",
+      "bytes": 78770
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130348.jpg",
+      "path": "img/p2130348.jpg",
+      "bytes": 79850
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130363.jpg",
+      "path": "img/p2130363.jpg",
+      "bytes": 81568
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130380.jpg",
+      "path": "img/p2130380.jpg",
+      "bytes": 79292
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130382.jpg",
+      "path": "img/p2130382.jpg",
+      "bytes": 101493
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc05794.jpg",
+      "path": "img/dsc05794.jpg",
+      "bytes": 202606
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170445.jpg",
+      "path": "img/p3170445.jpg",
+      "bytes": 121309
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170448.jpg",
+      "path": "img/p3170448.jpg",
+      "bytes": 128725
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170450.jpg",
+      "path": "img/p3170450.jpg",
+      "bytes": 148201
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170451.jpg",
+      "path": "img/p3170451.jpg",
+      "bytes": 151249
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170462.jpg",
+      "path": "img/p3170462.jpg",
+      "bytes": 139698
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170492.jpg",
+      "path": "img/p3170492.jpg",
+      "bytes": 125327
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170493.jpg",
+      "path": "img/p3170493.jpg",
+      "bytes": 99417
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_5247.jpg",
+      "path": "img/img_5247.jpg",
+      "bytes": 118969
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170501.jpg",
+      "path": "img/p3170501.jpg",
+      "bytes": 112139
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170502.jpg",
+      "path": "img/p3170502.jpg",
+      "bytes": 111656
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170516.jpg",
+      "path": "img/p3170516.jpg",
+      "bytes": 115331
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1008.jpg",
+      "path": "img/_mg_1008.jpg",
+      "bytes": 112673
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1009.jpg",
+      "path": "img/_mg_1009.jpg",
+      "bytes": 86803
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1011.jpg",
+      "path": "img/_mg_1011.jpg",
+      "bytes": 98041
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1012.jpg",
+      "path": "img/_mg_1012.jpg",
+      "bytes": 78092
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1019.jpg",
+      "path": "img/_mg_1019.jpg",
+      "bytes": 186381
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1022.jpg",
+      "path": "img/_mg_1022.jpg",
+      "bytes": 165056
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1027.jpg",
+      "path": "img/_mg_1027.jpg",
+      "bytes": 89400
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1187.jpg",
+      "path": "img/_mg_1187.jpg",
+      "bytes": 122225
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1197.jpg",
+      "path": "img/_mg_1197.jpg",
+      "bytes": 101958
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1198.jpg",
+      "path": "img/_mg_1198.jpg",
+      "bytes": 105031
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1200.jpg",
+      "path": "img/_mg_1200.jpg",
+      "bytes": 101117
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1201.jpg",
+      "path": "img/_mg_1201.jpg",
+      "bytes": 111337
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1202.jpg",
+      "path": "img/_mg_1202.jpg",
+      "bytes": 114827
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1204.jpg",
+      "path": "img/_mg_1204.jpg",
+      "bytes": 93616
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1206.jpg",
+      "path": "img/_mg_1206.jpg",
+      "bytes": 118731
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1207.jpg",
+      "path": "img/_mg_1207.jpg",
+      "bytes": 129681
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1208.jpg",
+      "path": "img/_mg_1208.jpg",
+      "bytes": 138077
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1209.jpg",
+      "path": "img/_mg_1209.jpg",
+      "bytes": 99901
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1303.jpg",
+      "path": "img/_mg_1303.jpg",
+      "bytes": 65054
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1313.jpg",
+      "path": "img/_mg_1313.jpg",
+      "bytes": 140628
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1317.jpg",
+      "path": "img/_mg_1317.jpg",
+      "bytes": 151239
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1319.jpg",
+      "path": "img/_mg_1319.jpg",
+      "bytes": 131613
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1325.jpg",
+      "path": "img/_mg_1325.jpg",
+      "bytes": 113432
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1329.jpg",
+      "path": "img/_mg_1329.jpg",
+      "bytes": 171589
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010302.jpg",
+      "path": "img/p1010302.jpg",
+      "bytes": 150173
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1341.jpg",
+      "path": "img/_mg_1341.jpg",
+      "bytes": 133021
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1345.jpg",
+      "path": "img/_mg_1345.jpg",
+      "bytes": 119666
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1352.jpg",
+      "path": "img/_mg_1352.jpg",
+      "bytes": 116450
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1354.jpg",
+      "path": "img/_mg_1354.jpg",
+      "bytes": 126602
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1371.jpg",
+      "path": "img/_mg_1371.jpg",
+      "bytes": 138677
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1402.jpg",
+      "path": "img/_mg_1402.jpg",
+      "bytes": 114362
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dscn0577.jpg",
+      "path": "img/dscn0577.jpg",
+      "bytes": 151020
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1442.jpg",
+      "path": "img/_mg_1442.jpg",
+      "bytes": 161151
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010351.jpg",
+      "path": "img/p1010351.jpg",
+      "bytes": 135830
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1446.jpg",
+      "path": "img/_mg_1446.jpg",
+      "bytes": 154132
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1448.jpg",
+      "path": "img/_mg_1448.jpg",
+      "bytes": 159252
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1449.jpg",
+      "path": "img/_mg_1449.jpg",
+      "bytes": 151782
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1469.jpg",
+      "path": "img/_mg_1469.jpg",
+      "bytes": 138697
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1481.jpg",
+      "path": "img/_mg_1481.jpg",
+      "bytes": 135659
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1520.jpg",
+      "path": "img/_mg_1520.jpg",
+      "bytes": 120265
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1532.jpg",
+      "path": "img/_mg_1532.jpg",
+      "bytes": 138319
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dscn0630.jpg",
+      "path": "img/dscn0630.jpg",
+      "bytes": 136349
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010388.jpg",
+      "path": "img/p1010388.jpg",
+      "bytes": 121688
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010337.jpg",
+      "path": "img/p1010337.jpg",
+      "bytes": 129974
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1543.jpg",
+      "path": "img/_mg_1543.jpg",
+      "bytes": 109295
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1545.jpg",
+      "path": "img/_mg_1545.jpg",
+      "bytes": 117097
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1549.jpg",
+      "path": "img/_mg_1549.jpg",
+      "bytes": 95354
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1551.jpg",
+      "path": "img/_mg_1551.jpg",
+      "bytes": 85120
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1554.jpg",
+      "path": "img/_mg_1554.jpg",
+      "bytes": 111142
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1556.jpg",
+      "path": "img/_mg_1556.jpg",
+      "bytes": 105031
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1558.jpg",
+      "path": "img/_mg_1558.jpg",
+      "bytes": 103416
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1559.jpg",
+      "path": "img/_mg_1559.jpg",
+      "bytes": 95569
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1563.jpg",
+      "path": "img/_mg_1563.jpg",
+      "bytes": 111434
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1566.jpg",
+      "path": "img/_mg_1566.jpg",
+      "bytes": 106275
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1572.jpg",
+      "path": "img/_mg_1572.jpg",
+      "bytes": 79187
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1580.jpg",
+      "path": "img/_mg_1580.jpg",
+      "bytes": 115991
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1583.jpg",
+      "path": "img/_mg_1583.jpg",
+      "bytes": 121245
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1585.jpg",
+      "path": "img/_mg_1585.jpg",
+      "bytes": 107906
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1826.jpg",
+      "path": "img/_mg_1826.jpg",
+      "bytes": 119221
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1787.jpg",
+      "path": "img/_mg_1787.jpg",
+      "bytes": 125251
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1829.jpg",
+      "path": "img/_mg_1829.jpg",
+      "bytes": 78375
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1789.jpg",
+      "path": "img/_mg_1789.jpg",
+      "bytes": 136160
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1793.jpg",
+      "path": "img/_mg_1793.jpg",
+      "bytes": 148176
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1796.jpg",
+      "path": "img/_mg_1796.jpg",
+      "bytes": 125254
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1797.jpg",
+      "path": "img/_mg_1797.jpg",
+      "bytes": 122776
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1801.jpg",
+      "path": "img/_mg_1801.jpg",
+      "bytes": 143125
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2041.jpg",
+      "path": "img/_mg_2041.jpg",
+      "bytes": 86323
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010405.jpg",
+      "path": "img/p1010405.jpg",
+      "bytes": 101920
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010407.jpg",
+      "path": "img/p1010407.jpg",
+      "bytes": 98222
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010411.jpg",
+      "path": "img/p1010411.jpg",
+      "bytes": 99697
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010412.jpg",
+      "path": "img/p1010412.jpg",
+      "bytes": 100578
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010414.jpg",
+      "path": "img/p1010414.jpg",
+      "bytes": 102099
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010421.jpg",
+      "path": "img/p1010421.jpg",
+      "bytes": 106115
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2113.jpg",
+      "path": "img/_mg_2113.jpg",
+      "bytes": 112125
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080127.jpg",
+      "path": "img/pc080127.jpg",
+      "bytes": 79706
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080133.jpg",
+      "path": "img/pc080133.jpg",
+      "bytes": 74235
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080139.jpg",
+      "path": "img/pc080139.jpg",
+      "bytes": 85907
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080145.jpg",
+      "path": "img/pc080145.jpg",
+      "bytes": 83032
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080156.jpg",
+      "path": "img/pc080156.jpg",
+      "bytes": 81453
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080159.jpg",
+      "path": "img/pc080159.jpg",
+      "bytes": 84130
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2262.jpg",
+      "path": "img/_mg_2262.jpg",
+      "bytes": 115144
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2234.jpg",
+      "path": "img/img_2234.jpg",
+      "bytes": 112166
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2254.jpg",
+      "path": "img/img_2254.jpg",
+      "bytes": 112054
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2255.jpg",
+      "path": "img/img_2255.jpg",
+      "bytes": 121877
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2259.jpg",
+      "path": "img/img_2259.jpg",
+      "bytes": 102905
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2155.jpg",
+      "path": "img/img_2155.jpg",
+      "bytes": 106783
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2157.jpg",
+      "path": "img/img_2157.jpg",
+      "bytes": 100335
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2238.jpg",
+      "path": "img/img_2238.jpg",
+      "bytes": 118646
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2265.jpg",
+      "path": "img/img_2265.jpg",
+      "bytes": 109462
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2271.jpg",
+      "path": "img/img_2271.jpg",
+      "bytes": 102182
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2293.jpg",
+      "path": "img/img_2293.jpg",
+      "bytes": 100730
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2340.jpg",
+      "path": "img/img_2340.jpg",
+      "bytes": 116305
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2347.jpg",
+      "path": "img/img_2347.jpg",
+      "bytes": 101737
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2349.jpg",
+      "path": "img/img_2349.jpg",
+      "bytes": 119808
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2367.jpg",
+      "path": "img/img_2367.jpg",
+      "bytes": 129946
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2373.jpg",
+      "path": "img/img_2373.jpg",
+      "bytes": 112543
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2374.jpg",
+      "path": "img/img_2374.jpg",
+      "bytes": 119973
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2375.jpg",
+      "path": "img/img_2375.jpg",
+      "bytes": 132570
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2376.jpg",
+      "path": "img/img_2376.jpg",
+      "bytes": 122322
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2378.jpg",
+      "path": "img/img_2378.jpg",
+      "bytes": 144473
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2380.jpg",
+      "path": "img/img_2380.jpg",
+      "bytes": 111725
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2386.jpg",
+      "path": "img/img_2386.jpg",
+      "bytes": 117934
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2410.jpg",
+      "path": "img/img_2410.jpg",
+      "bytes": 123444
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2419.jpg",
+      "path": "img/img_2419.jpg",
+      "bytes": 103969
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090314.jpg",
+      "path": "img/p2090314.jpg",
+      "bytes": 97107
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090276.jpg",
+      "path": "img/p2090276.jpg",
+      "bytes": 84700
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090283.jpg",
+      "path": "img/p2090283.jpg",
+      "bytes": 89246
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090289.jpg",
+      "path": "img/p2090289.jpg",
+      "bytes": 85049
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090295.jpg",
+      "path": "img/p2090295.jpg",
+      "bytes": 80318
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090302.jpg",
+      "path": "img/p2090302.jpg",
+      "bytes": 77149
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090311.jpg",
+      "path": "img/p2090311.jpg",
+      "bytes": 86910
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2508.jpg",
+      "path": "img/img_2508.jpg",
+      "bytes": 181599
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2457.jpg",
+      "path": "img/img_2457.jpg",
+      "bytes": 141157
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2470.jpg",
+      "path": "img/img_2470.jpg",
+      "bytes": 108164
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2477.jpg",
+      "path": "img/img_2477.jpg",
+      "bytes": 128523
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2482.jpg",
+      "path": "img/img_2482.jpg",
+      "bytes": 135151
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2529.jpg",
+      "path": "img/img_2529.jpg",
+      "bytes": 112779
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2530.jpg",
+      "path": "img/img_2530.jpg",
+      "bytes": 102529
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2541.jpg",
+      "path": "img/img_2541.jpg",
+      "bytes": 116030
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2543.jpg",
+      "path": "img/img_2543.jpg",
+      "bytes": 128942
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2545.jpg",
+      "path": "img/img_2545.jpg",
+      "bytes": 116847
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2546.jpg",
+      "path": "img/img_2546.jpg",
+      "bytes": 111363
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2548.jpg",
+      "path": "img/img_2548.jpg",
+      "bytes": 120479
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0664.jpg",
+      "path": "img/dsc_0664.jpg",
+      "bytes": 245643
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0665.jpg",
+      "path": "img/dsc_0665.jpg",
+      "bytes": 248940
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0686.jpg",
+      "path": "img/dsc_0686.jpg",
+      "bytes": 259489
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0696.jpg",
+      "path": "img/dsc_0696.jpg",
+      "bytes": 244231
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0697.jpg",
+      "path": "img/dsc_0697.jpg",
+      "bytes": 244609
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0698.jpg",
+      "path": "img/dsc_0698.jpg",
+      "bytes": 255372
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0706.jpg",
+      "path": "img/dsc_0706.jpg",
+      "bytes": 258168
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0707.jpg",
+      "path": "img/dsc_0707.jpg",
+      "bytes": 258916
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/6.jpg",
+      "path": "img/6.jpg",
+      "bytes": 223134
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/3.jpg",
+      "path": "img/3.jpg",
+      "bytes": 129361
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/5.jpg",
+      "path": "img/5.jpg",
+      "bytes": 178409
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/10.jpg",
+      "path": "img/10.jpg",
+      "bytes": 123555
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/11.jpg",
+      "path": "img/11.jpg",
+      "bytes": 145651
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/12.jpg",
+      "path": "img/12.jpg",
+      "bytes": 129505
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/13.jpg",
+      "path": "img/13.jpg",
+      "bytes": 136880
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/14.jpg",
+      "path": "img/14.jpg",
+      "bytes": 154052
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/15.jpg",
+      "path": "img/15.jpg",
+      "bytes": 167671
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/8.jpg",
+      "path": "img/8.jpg",
+      "bytes": 94866
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/9.jpg",
+      "path": "img/9.jpg",
+      "bytes": 174931
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/19.jpg",
+      "path": "img/19.jpg",
+      "bytes": 213744
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/16.jpg",
+      "path": "img/16.jpg",
+      "bytes": 137129
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/17.jpg",
+      "path": "img/17.jpg",
+      "bytes": 104791
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/18.jpg",
+      "path": "img/18.jpg",
+      "bytes": 88273
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/20.jpg",
+      "path": "img/20.jpg",
+      "bytes": 112714
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/25.jpg",
+      "path": "img/25.jpg",
+      "bytes": 86088
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/21.jpg",
+      "path": "img/21.jpg",
+      "bytes": 85118
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/22.jpg",
+      "path": "img/22.jpg",
+      "bytes": 164826
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/23.jpg",
+      "path": "img/23.jpg",
+      "bytes": 184236
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/24.jpg",
+      "path": "img/24.jpg",
+      "bytes": 132007
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/7.jpg",
+      "path": "img/7.jpg",
+      "bytes": 113889
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0096.jpg",
+      "path": "img/cimg0096.jpg",
+      "bytes": 105774
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0098.jpg",
+      "path": "img/cimg0098.jpg",
+      "bytes": 114360
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0101.jpg",
+      "path": "img/cimg0101.jpg",
+      "bytes": 122882
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0103.jpg",
+      "path": "img/cimg0103.jpg",
+      "bytes": 115597
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0105.jpg",
+      "path": "img/cimg0105.jpg",
+      "bytes": 107896
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0106.jpg",
+      "path": "img/cimg0106.jpg",
+      "bytes": 105312
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0107.jpg",
+      "path": "img/cimg0107.jpg",
+      "bytes": 119239
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0112.jpg",
+      "path": "img/cimg0112.jpg",
+      "bytes": 114135
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0116.jpg",
+      "path": "img/cimg0116.jpg",
+      "bytes": 122023
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0118.jpg",
+      "path": "img/cimg0118.jpg",
+      "bytes": 127995
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0119.jpg",
+      "path": "img/cimg0119.jpg",
+      "bytes": 130110
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0121.jpg",
+      "path": "img/cimg0121.jpg",
+      "bytes": 108429
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00978.jpg",
+      "path": "img/dsc00978.jpg",
+      "bytes": 105127
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00964.jpg",
+      "path": "img/dsc00964.jpg",
+      "bytes": 96004
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00967.jpg",
+      "path": "img/dsc00967.jpg",
+      "bytes": 103536
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00970.jpg",
+      "path": "img/dsc00970.jpg",
+      "bytes": 97270
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00972.jpg",
+      "path": "img/dsc00972.jpg",
+      "bytes": 114078
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00973.jpg",
+      "path": "img/dsc00973.jpg",
+      "bytes": 99013
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00976.jpg",
+      "path": "img/dsc00976.jpg",
+      "bytes": 92212
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/薬学部.png",
+      "error": "'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)"
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku//js/jquery-1.11.3.min.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku//js/jquery.bxslider.min.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku//css/jquery.bxslider.css",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "visited": [
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku//css/jquery.bxslider.css",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku//js/jquery-1.11.3.min.js",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku//js/jquery.bxslider.min.js",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category2/",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry21.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry22.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry23.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry34.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry35.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry11.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry16.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry12.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry13.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry15.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry25.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry17.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry18.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry19.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry27.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry28.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry31.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry36.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry38.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry39.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry41.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry42.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry43.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry45.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category8/",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/10.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/11.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/12.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/13.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/14.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961562478.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961576977.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961587213.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961590104.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961597735.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961664536.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/1472961667922.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/15.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/16.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/17.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/18.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/19.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/2.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/20.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201400.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201404.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201518.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201522.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201537.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201581.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201599.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201629.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201655.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/201717.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/20240410-1.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/21.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/22.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/23.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/24.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/25.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/3.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/4.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/4.png",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/40890.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/40891.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/410-11.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/410-27.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/410-9.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/5.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/6.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/7.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/8.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/9.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211780.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211790.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211793.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211797.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211800.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211802.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211817.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211831.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211851.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211858.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211870.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211873.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211875.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211878.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211895.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PA211907.JPG",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302004.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302007.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302022.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302030.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302037.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302039.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/PB302042.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1008.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1009.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1011.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1012.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1019.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1022.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1027.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1187.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1197.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1198.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1200.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1201.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1202.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1204.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1206.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1207.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1208.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1209.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1303.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1313.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1317.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1319.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1325.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1329.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1341.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1345.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1352.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1354.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1371.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1402.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1442.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1446.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1448.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1449.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1469.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1481.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1520.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1532.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1543.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1545.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1549.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1551.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1554.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1556.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1558.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1559.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1563.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1566.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1572.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1580.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1583.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1585.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1787.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1789.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1793.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1796.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1797.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1801.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1826.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_1829.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2041.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2113.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2262.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2814.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2823.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2828.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2830.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2835.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2836.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2840.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_2841.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_3472.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_3475.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/_mg_3750.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/baio_top.png",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/biomarker.png",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/bskt9055.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/bzfc1119.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/caay8660.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/ceramide3.png",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/ceramide_1.png",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/ceramide_2.png",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0096.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0098.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0101.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0103.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0105.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0106.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0107.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0112.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0116.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0118.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0119.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/cimg0121.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/clipimage_01.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/clipimage_04.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/doutai.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00964.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00967.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00970.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00972.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00973.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00976.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc00978.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc05794.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0664.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0665.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0686.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0696.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0697.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0698.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0706.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dsc_0707.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dscn0577.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dscn0630.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/dvhk4777.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/gghf4874.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/image1.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/imagesala.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2155.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2157.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2234.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2238.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2254.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2255.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2259.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2265.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2271.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2293.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2340.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2347.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2349.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2367.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2373.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2374.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2375.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2376.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2378.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2380.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2386.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2410.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2419.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2457.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2470.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2477.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2482.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2508.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2529.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2530.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2541.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2543.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2545.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2546.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2548.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2883.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2886.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2894.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2896.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2901.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2903.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2906.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_2907.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3498.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3507.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3509.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3522.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3526.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3533.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3534.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3600.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3626.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3680.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3687.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3696.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3697.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3705.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3707.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3713.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3716.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3763.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3765.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_3768.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/img_5247.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/keihipage.png",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/kimg3059.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/kjud0786.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010302.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010337.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010351.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010388.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010405.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010407.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010411.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010412.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010414.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p1010421.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011656.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011659.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011661.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011664.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011667.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011670.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011674.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011873.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011877.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011884.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011893.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2011900.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012052.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012055.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012067.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012076.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012084.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2012090.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031480.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031484.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031488.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031494.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031500.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031503.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2031907.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2042371.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2042386.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2042394.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2042419.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2042449.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061419.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061423.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061432.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061444.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061448.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2061456.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2080385.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2080387.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2080391.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2080393.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2082095.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090276.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090283.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090289.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090295.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090302.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090311.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2090314.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130330.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130341.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130348.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130363.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130380.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2130382.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p2161971.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170445.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170448.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170450.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170451.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170462.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170492.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170493.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170501.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170502.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3170516.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200472.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200482.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200487.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200489.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200494.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200499.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200507.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200563.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3200591.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201458.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201461.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201462.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201463.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201467.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201469.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201527.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201550.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201551.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201552.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p3201556.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4031557.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4031560.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4031564.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4031566.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4031581.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080601.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080607.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080608.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080611.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080613.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4080615.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4102147.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4102151.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4102155.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4102178.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4121669.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4121671.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130599.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130603.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130605.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130608.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130613.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130617.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4130620.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190625.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190626.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190629.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190632.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190633.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190639.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190641.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190643.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190645.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190649.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190650.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190651.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190652.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4190654.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240628.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240632.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240634.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240637.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240638.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240640.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240641.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240642.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240643.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240644.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4240645.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251674.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251676.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251683.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251685.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251686.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251687.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251688.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251689.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251690.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251693.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p4251695.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210731.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210734.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210738.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210742.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210755.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210769.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210770.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210775.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210825.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210833.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210834.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210837.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210847.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210850.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210860.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210863.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210885.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210911.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8210979.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8220994.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8220998.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221023.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221027.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221048.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221061.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221063.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221076.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221079.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221094.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221096.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221100.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8221103.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8230960.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8230963.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8230965.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8230976.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8230988.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231008.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231012.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231024.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231030.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231037.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231039.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231042.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231071.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231081.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231087.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p8231092.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p9192919.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/p9192932.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201107.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201146.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201154.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201155.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201156.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201157.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201158.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa201168.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281146.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281199.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281201.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281210.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281211.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281212.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pa281213.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb142660.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252704.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252727.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252751.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252772.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252810.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252824.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb252841.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262307.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262316.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262327.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262341.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262357.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262365.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pb262369.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021469.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021473.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021600.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021613.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021618.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021626.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021642.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021650.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc021653.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051233.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051237.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051246.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051255.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051267.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051282.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051289.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051799.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051808.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051818.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051829.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051852.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc051860.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060028.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060037.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060039.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060047.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060054.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc060060.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062014.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062015.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062019.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062023.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062027.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062033.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc062039.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080127.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080133.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080139.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080145.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080156.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc080159.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210074.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210114.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210125.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210127.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210150.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210157.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210168.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210199.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210208.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210210.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210212.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210213.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210214.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210216.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210258.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210280.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210282.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210283.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210284.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210285.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210286.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210288.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210296.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210313.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210315.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc210320.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221296.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221299.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221305.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221309.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221328.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221334.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221348.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221357.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221359.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221360.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221362.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221363.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221364.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221374.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221386.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221389.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221391.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221393.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221397.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221399.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221400.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221402.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221403.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221404.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221406.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221407.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/pc221409.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/seizai.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/seizai2.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/univ_shizuoka.png",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/vanin1.png",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/vecr5354.jpg",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/img/薬学部.png",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2025jizenjisshu_report.pdf",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026houmoncheckpass.xlsx",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026renkeidocumentspass.xlsx",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026reportformpass.docx",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026rubricigainohyoukaformpass.xlsx",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026schedule.xlsx",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rinzaidownload/2026schedule_kensou.xlsx",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/rss.xml",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/sitemap.html",
+    "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/styles.css",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category2/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry21.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry22.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry23.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry34.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry35.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry11.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry16.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry12.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry13.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry15.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry25.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry17.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry18.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry19.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry27.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry28.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry31.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry36.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry38.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry39.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry41.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry42.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry43.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category7/entry45.html&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21",
+    "https://www.facebook.com/plugins/like.php?href=http://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category8/&layout=button_count&show_faces=false&width=100&action=like&colorscheme=light&height=21"
+  ]
+}

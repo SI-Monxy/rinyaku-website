@@ -1,0 +1,39 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const files = [
+  { href: '/downloads/2026schedule.xlsx', label: '実務実習スケジュール雛形' },
+  { href: '/downloads/2026schedule_kensou.xlsx', label: '実務実習スケジュール_見本（県立総合病院版）' },
+  { href: '/downloads/2026reportformpass.docx', label: '実務実習記録（レポートフォーム）_運用' },
+  { href: '/downloads/2026rubricigainohyoukaformpass.xlsx', label: 'ルーブリック以外の項目評価' },
+  { href: '/downloads/2026renkeidocumentspass.xlsx', label: '実務実習連携書2026' },
+  { href: '/downloads/2026houmoncheckpass.xlsx', label: '訪問チェック表（薬局_病院）_雛形_2026' },
+  { href: '/downloads/2025jizenjisshu_report.pdf', label: '2025 年度_実務事前実習 実習項目' },
+];
+---
+
+<BaseLayout title="実務実習関連" description="実務実習に必要なファイルのダウンロード">
+  <section class="page-hero">
+    <div class="container">
+      <h1>実務実習関連</h1>
+      <p>実務実習に必要なファイルは、下記リンクからダウンロードできます。</p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:0">
+    <div class="container">
+      <div class="panel">
+        <ul class="list-plain">
+          {
+            files.map((file) => (
+              <li class="news-item">
+                <a href={file.href} download>
+                  {file.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

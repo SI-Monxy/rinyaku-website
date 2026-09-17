@@ -1,0 +1,30 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCollection } from 'astro:content';
+
+const items = (await getCollection('research')).sort((a, b) => a.data.order - b.data.order);
+---
+
+<BaseLayout title="研究内容" description="臨床薬剤学分野の研究テーマ一覧">
+  <section class="page-hero">
+    <div class="container">
+      <h1>研究内容</h1>
+      <p>当研究室では、以下のような研究プロジェクトが進行中です。</p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:0">
+    <div class="container grid-3">
+      {
+        items.map((item) => (
+          <a class="topic-link panel" href={`/research/${item.id}/`}>
+            <img src={item.data.cover} alt="" loading="lazy" width="640" height="480" />
+            <div>
+              <h3>{item.data.title}</h3>
+              <p>{item.data.description}</p>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

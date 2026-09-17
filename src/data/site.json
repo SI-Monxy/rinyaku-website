@@ -1,0 +1,41 @@
+{
+  "nameJa": "臨床薬剤学分野",
+  "nameEn": "Department of Clinical Pharmaceutics",
+  "universityJa": "静岡県立大学 薬学部",
+  "universityEn": "University of Shizuoka",
+  "eyebrow": "PERSONALIZED THERAPY",
+  "headline": "一人ひとりに、より良い薬物療法を。",
+  "headlineLines": ["一人ひとりに、", "より良い薬物療法を。"],
+  "lead": "臨床の問いを基礎研究へ。基礎研究の成果を患者さんへ。私たちは病院・企業との共同研究を通じて、個別化医療の実践を目指しています。",
+  "tagline": "Personalized therapy 実践のための臨床的・基礎的研究",
+  "description": "静岡県立大学薬学部 臨床薬剤学分野の研究室サイトです。病院や企業との共同研究、動物を用いた基礎研究、実務実習支援を行っています。",
+  "aboutTitle": "臨床と基礎をつなぐ、薬学の研究拠点。",
+  "aboutBody": [
+    "当研究室では、Personalized therapy実践のための臨床的・基礎的研究をテーマに、病院や企業との共同研究や動物を用いた基礎研究を行っています。",
+    "静岡県立総合病院 先端医学棟5F 薬学教育・研究センターにも研究室があり、病院でも実習・研究を行っています。"
+  ],
+  "professor": "辻 大樹",
+  "contact": "静岡県立大学薬学部 臨床薬剤学分野",
+  "hospitalNote": "静岡県立総合病院 先端医学棟5F 薬学教育・研究センターにも研究室があります。",
+  "graduateExamUrl": "https://w3pharm.u-shizuoka-ken.ac.jp/index.php/2010-11-12-03-40-43",
+  "links": [
+    {
+      "label": "静岡県立大学",
+      "href": "https://www.u-shizuoka-ken.ac.jp/"
+    },
+    {
+      "label": "薬学部",
+      "href": "https://w3pharm.u-shizuoka-ken.ac.jp/"
+    },
+    {
+      "label": "大学院薬学研究科",
+      "href": "https://w3pharm.u-shizuoka-ken.ac.jp/index.php/2010-11-12-03-40-43"
+    }
+  ],
+  "oldSite": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/",
+  "heroImage": "/images/pb142660.jpg",
+  "heroCaption": {
+    "title": "Clinical × Basic Science",
+    "text": "病院と大学、二つの現場から研究を進めています"
+  }
+}
