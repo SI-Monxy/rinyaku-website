@@ -1040,6 +1040,11 @@ p {
   padding-left: 1.2rem;
 }
 
+/* 業績：1件ごとに間隔をあける（項目内の改行は remark-publication-breaks で <br> にする） */
+.publication-list li + li {
+  margin-top: 0.75rem;
+}
+
 .member-group {
   margin-bottom: 2rem;
 }

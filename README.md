@@ -46,11 +46,13 @@ npm run preview
 |---|---|---|
 | メンバー | `src/data/members.json` | `/members/`、トップの教員一覧 |
 | 実務実習資料 | `src/data/training.json` + `public/downloads` | `/training/` |
+| 業績 | `src/content/publications/` | `/publications/` |
 | お知らせ | `src/content/news/` | `/news/`、トップ |
 | 行事 | `src/content/events/` | `/events/`、トップ |
 
 - メンバーの学年繰り上げは「区分」を変更、卒業は削除、新入生は追加。区分内の表示順は一覧の並び順
 - 区分の選択肢を増やすときは `.pages.yml` と `src/lib/data.ts` の `memberGroups` を両方更新する
+- 業績は年度を見出し（H3）、1件を箇条書き1項目で書く。書誌情報の改行は Shift+Enter。論文ページは約130件あり、エディタを開くまで30〜40秒かかる
 - 必須項目の空欄などデータに不備があると、ビルドがエラーになり公開サイトは更新されない（直前の状態のまま）
 
 ### 実務実習資料の取り扱い
