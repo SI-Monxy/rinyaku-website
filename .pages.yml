@@ -176,6 +176,10 @@ content:
         required: true
         options:
           media: images
+      - name: oldUrl
+        label: 旧サイトURL
+        type: string
+        readonly: true
       - name: body
         label: 本文
         type: rich-text
