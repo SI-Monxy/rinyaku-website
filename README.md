@@ -38,6 +38,27 @@ npm run preview
 4. デプロイ後、`https://<project>.pages.dev` で確認
 5. Pages CMS を使う場合は、Pages CMS 側で同リポジトリを接続
 
+## Pages CMS での編集
+
+管理画面: https://app.pagescms.org （GitHub でログインし、このリポジトリを選択）
+
+| 項目 | データ | 反映先 |
+|---|---|---|
+| メンバー | `src/data/members.json` | `/members/`、トップの教員一覧 |
+| 実務実習資料 | `src/data/training.json` + `public/downloads` | `/training/` |
+| お知らせ | `src/content/news/` | `/news/`、トップ |
+| 行事 | `src/content/events/` | `/events/`、トップ |
+
+- メンバーの学年繰り上げは「区分」を変更、卒業は削除、新入生は追加。区分内の表示順は一覧の並び順
+- 区分の選択肢を増やすときは `.pages.yml` と `src/lib/data.ts` の `memberGroups` を両方更新する
+- 必須項目の空欄などデータに不備があると、ビルドがエラーになり公開サイトは更新されない（直前の状態のまま）
+
+### 実務実習資料の取り扱い
+
+- `public/downloads` のファイルは URL を知っていれば誰でも取得できる。「公開する」をオフにしても一覧から消えるだけなので、公開できないファイルはアップロードしない
+- 不要になったファイルは一覧から削除したうえで、メディア（配布資料）からファイル自体も削除する
+- 現在の Excel / Word 資料はすべてパスワード付き（暗号化済み）。パスワードはサイトに掲載せず別経路で伝える
+
 > Cloudflare の API トークン発行・連携操作は、この成果物には含めていません。
 
 ## 公開範囲からの移植方針
@@ -77,4 +98,3 @@ export default defineConfig({
 
 - `_mirror/` は取得時の生データ置き場です（`.gitignore` 済み）
 - 検証中は `public/robots.txt` で検索エンジンを拒否しています。本番公開前に見直してください
-- お知らせ追加は `src/content/news/` か Pages CMS から行えます

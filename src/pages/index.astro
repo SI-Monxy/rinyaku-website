@@ -2,7 +2,7 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import site from '../data/site.json';
-import members from '../data/members.json';
+import { faculty } from '@/lib/data';
 
 const research = (await getCollection('research')).sort((a, b) => a.data.order - b.data.order);
 const news = (await getCollection('news'))
@@ -48,7 +48,7 @@ const lifeItems = [
   },
 ];
 
-const facultyPreview = members.faculty.slice(0, 4);
+const facultyPreview = faculty.slice(0, 4);
 ---
 
 <BaseLayout>

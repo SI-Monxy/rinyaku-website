@@ -1,14 +1,106 @@
 # Pages CMS 設定
 # ドキュメント: https://pagescms.org/docs/configuration
-# Cloudflare Pages 連携後、このリポジトリを接続すると /admin 相当の編集UIが使えます。
+# 編集画面は https://app.pagescms.org （GitHub でログインし、このリポジトリを選択）。
+# 保存すると main にコミットされ、Cloudflare Pages が再デプロイする。
 
 media:
   - name: images
     label: 画像
     input: public/images
     output: /images
+    categories: [image]
+  - name: downloads
+    label: 配布資料
+    input: public/downloads
+    output: /downloads
 
 content:
+  - name: members
+    label: メンバー
+    type: file
+    path: src/data/members.json
+    format: json
+    fields:
+      - name: members
+        label: メンバー一覧
+        description: 並び順がそのまま表示順になります（区分ごとに表示）。卒業したメンバーは削除してください。
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{name}"
+        fields:
+          - name: name
+            label: 氏名
+            type: string
+            required: true
+          - name: nameEn
+            label: ローマ字
+            type: string
+          - name: group
+            label: 区分
+            description: 学年の繰り上げはここを変更します
+            type: select
+            required: true
+            options:
+              values:
+                - { name: faculty, label: 教員 }
+                - { name: phd-social, label: 博士課程（社会人） }
+                - { name: phd4, label: 博士課程4年 }
+                - { name: phd3, label: 博士課程3年 }
+                - { name: phd2, label: 博士課程2年 }
+                - { name: phd1, label: 博士課程1年 }
+                - { name: year6, label: 6年生 }
+                - { name: year5, label: 5年生 }
+                - { name: year4, label: 4年生 }
+          - name: role
+            label: 役職
+            description: 教員のみ（教授・講師・助教など）
+            type: string
+          - name: degree
+            label: 学位
+            type: string
+          - name: profileUrl
+            label: プロフィールURL
+            type: string
+
+  - name: training
+    label: 実務実習資料
+    type: file
+    path: src/data/training.json
+    format: json
+    fields:
+      - name: intro
+        label: ページ冒頭の説明文
+        type: text
+      - name: files
+        label: 資料一覧
+        description: 並び順がそのまま表示順になります。
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - name: title
+            label: 資料名
+            type: string
+            required: true
+          - name: file
+            label: ファイル
+            type: file
+            required: true
+            options:
+              media: downloads
+          - name: year
+            label: 年度
+            type: number
+          - name: published
+            label: 公開する
+            description: オフにすると一覧に表示されません（ファイル自体は URL を知っていれば取得できます）
+            type: boolean
+            default: true
+
   - name: news
     label: お知らせ
     path: src/content/news

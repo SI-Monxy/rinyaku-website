@@ -1,133 +1,204 @@
 {
-  "faculty": [
+  "members": [
     {
-      "role": "教授",
       "name": "辻 大樹",
       "nameEn": "Daiki Tsuji",
+      "group": "faculty",
+      "role": "教授",
       "degree": "博士(薬学)",
       "profileUrl": "https://db.u-shizuoka-ken.ac.jp/show/prof382.html"
     },
     {
-      "role": "講師",
       "name": "横山 匡",
       "nameEn": "Tasuku Yokoyama",
+      "group": "faculty",
+      "role": "講師",
       "degree": "博士(薬学)",
       "profileUrl": "https://db.u-shizuoka-ken.ac.jp/show/p-yokoyamatasuku.html"
     },
     {
-      "role": "助教",
       "name": "谷澤 康玄",
       "nameEn": "Yasuharu Yazawa",
+      "group": "faculty",
+      "role": "助教",
       "degree": "博士(薬学)",
       "profileUrl": "http://db.u-shizuoka-ken.ac.jp/show/prof281.html"
     },
     {
-      "role": "助教",
       "name": "上野 翔平",
       "nameEn": "Shohei Ueno",
+      "group": "faculty",
+      "role": "助教",
       "degree": "",
       "profileUrl": ""
     },
     {
-      "role": "客員教授",
       "name": "高橋 幸利",
       "nameEn": "Yukitoshi Takahashi",
+      "group": "faculty",
+      "role": "客員教授",
       "degree": "",
       "profileUrl": ""
     },
     {
-      "role": "客員准教授",
       "name": "山本 吉章",
       "nameEn": "Yoshiaki Yamamoto",
+      "group": "faculty",
+      "role": "客員准教授",
       "degree": "",
       "profileUrl": ""
-    }
-  ],
-  "phdSocial": [
+    },
     {
       "name": "中條 倫成",
-      "nameEn": ""
+      "nameEn": "",
+      "group": "phd-social",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "猪又 健吾",
-      "nameEn": ""
-    }
-  ],
-  "phdYear3": [
+      "nameEn": "",
+      "group": "phd-social",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
+    },
     {
       "name": "金子 一太郎",
-      "nameEn": "Ichitaro Kaneko"
-    }
-  ],
-  "year6": [
+      "nameEn": "Ichitaro Kaneko",
+      "group": "phd3",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
+    },
     {
       "name": "寺田 陸人",
-      "nameEn": "Rikuto Terada"
+      "nameEn": "Rikuto Terada",
+      "group": "year6",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "望月 ひなた",
-      "nameEn": "Hinata Mochizuki"
+      "nameEn": "Hinata Mochizuki",
+      "group": "year6",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "谷代 優馬",
-      "nameEn": "Yuma Yashiro"
+      "nameEn": "Yuma Yashiro",
+      "group": "year6",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "相良 康仁",
-      "nameEn": "Yasuhito Sagara"
-    }
-  ],
-  "year5": [
+      "nameEn": "Yasuhito Sagara",
+      "group": "year6",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
+    },
     {
       "name": "金子 真弓",
-      "nameEn": "Mayumi Kaneko"
+      "nameEn": "Mayumi Kaneko",
+      "group": "year5",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "小山 陽世",
-      "nameEn": "Hiyo Koyama"
+      "nameEn": "Hiyo Koyama",
+      "group": "year5",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "髙野 瑚白",
-      "nameEn": "Kohaku Takano"
+      "nameEn": "Kohaku Takano",
+      "group": "year5",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "千原 瑠爾",
-      "nameEn": "Ryuji Chihara"
+      "nameEn": "Ryuji Chihara",
+      "group": "year5",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "松本 彩花",
-      "nameEn": "Ayaka Matsumoto"
+      "nameEn": "Ayaka Matsumoto",
+      "group": "year5",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "宮崎 乃郁",
-      "nameEn": "Noa Miyazaki"
-    }
-  ],
-  "year4": [
+      "nameEn": "Noa Miyazaki",
+      "group": "year5",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
+    },
     {
       "name": "白須 絵里香",
-      "nameEn": "Erika Shirasu"
+      "nameEn": "Erika Shirasu",
+      "group": "year4",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "加藤 陽奈",
-      "nameEn": "Haruna Kato"
+      "nameEn": "Haruna Kato",
+      "group": "year4",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "川本 慎子",
-      "nameEn": "Mako Kawamoto"
+      "nameEn": "Mako Kawamoto",
+      "group": "year4",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "坂本 陽菜",
-      "nameEn": "Haruna Sakamoto"
+      "nameEn": "Haruna Sakamoto",
+      "group": "year4",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "澤﨑 由奈",
-      "nameEn": "Yuna Sawazaki"
+      "nameEn": "Yuna Sawazaki",
+      "group": "year4",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     },
     {
       "name": "澁谷 阿美",
-      "nameEn": "Ami Shibuya"
+      "nameEn": "Ami Shibuya",
+      "group": "year4",
+      "role": "",
+      "degree": "",
+      "profileUrl": ""
     }
-  ],
-  "oldUrl": "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category2/"
+  ]
 }
