@@ -161,14 +161,21 @@ content:
         required: true
       - name: year
         label: 年度
+        description: 1年度につき1ページです。同じ年度の行事を2件作るとビルドが止まります
         type: number
         required: true
       - name: description
         label: 概要
+        description: 行事一覧とトップページのカードに表示されます
         type: string
+        required: true
       - name: cover
-        label: カバー画像パス
-        type: string
+        label: カバー画像
+        description: 行事一覧とトップページのカードに表示する画像です
+        type: image
+        required: true
+        options:
+          media: images
       - name: body
         label: 本文
         type: rich-text
