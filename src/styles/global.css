@@ -1040,6 +1040,15 @@ p {
   padding-left: 1.2rem;
 }
 
+/* 業績：CMS で入力した項目内の改行をそのまま表示し、1件ごとに間隔をあける */
+.publication-list li {
+  white-space: pre-line;
+}
+
+.publication-list li + li {
+  margin-top: 0.75rem;
+}
+
 .member-group {
   margin-bottom: 2rem;
 }
