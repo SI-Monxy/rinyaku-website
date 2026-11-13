@@ -1,0 +1,47 @@
+{
+  "intro": "実務実習に必要なファイルは、下記リンクからダウンロードできます。",
+  "files": [
+    {
+      "title": "実務実習スケジュール雛形",
+      "file": "/downloads/2026schedule.xlsx",
+      "year": 2026,
+      "published": true
+    },
+    {
+      "title": "実務実習スケジュール_見本（県立総合病院版）",
+      "file": "/downloads/2026schedule_kensou.xlsx",
+      "year": 2026,
+      "published": true
+    },
+    {
+      "title": "実務実習記録（レポートフォーム）_運用",
+      "file": "/downloads/2026reportformpass.docx",
+      "year": 2026,
+      "published": true
+    },
+    {
+      "title": "ルーブリック以外の項目評価",
+      "file": "/downloads/2026rubricigainohyoukaformpass.xlsx",
+      "year": 2026,
+      "published": true
+    },
+    {
+      "title": "実務実習連携書2026",
+      "file": "/downloads/2026renkeidocumentspass.xlsx",
+      "year": 2026,
+      "published": true
+    },
+    {
+      "title": "訪問チェック表（薬局_病院）_雛形_2026",
+      "file": "/downloads/2026houmoncheckpass.xlsx",
+      "year": 2026,
+      "published": true
+    },
+    {
+      "title": "2025 年度_実務事前実習 実習項目",
+      "file": "/downloads/2025jizenjisshu_report.pdf",
+      "year": 2025,
+      "published": true
+    }
+  ]
+}
