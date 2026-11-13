@@ -28,177 +28,111 @@
       "name": "上野 翔平",
       "nameEn": "Shohei Ueno",
       "group": "faculty",
-      "role": "助教",
-      "degree": "",
-      "profileUrl": ""
+      "role": "助教"
     },
     {
       "name": "高橋 幸利",
       "nameEn": "Yukitoshi Takahashi",
       "group": "faculty",
-      "role": "客員教授",
-      "degree": "",
-      "profileUrl": ""
+      "role": "客員教授"
     },
     {
       "name": "山本 吉章",
       "nameEn": "Yoshiaki Yamamoto",
       "group": "faculty",
-      "role": "客員准教授",
-      "degree": "",
-      "profileUrl": ""
+      "role": "客員准教授"
     },
     {
       "name": "中條 倫成",
-      "nameEn": "",
-      "group": "phd-social",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "phd-social"
     },
     {
       "name": "猪又 健吾",
-      "nameEn": "",
-      "group": "phd-social",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "phd-social"
     },
     {
       "name": "金子 一太郎",
       "nameEn": "Ichitaro Kaneko",
-      "group": "phd3",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "phd4"
     },
     {
       "name": "寺田 陸人",
       "nameEn": "Rikuto Terada",
-      "group": "year6",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year6"
     },
     {
       "name": "望月 ひなた",
       "nameEn": "Hinata Mochizuki",
-      "group": "year6",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year6"
     },
     {
       "name": "谷代 優馬",
       "nameEn": "Yuma Yashiro",
-      "group": "year6",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year6"
     },
     {
       "name": "相良 康仁",
       "nameEn": "Yasuhito Sagara",
-      "group": "year6",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year6"
     },
     {
       "name": "金子 真弓",
       "nameEn": "Mayumi Kaneko",
-      "group": "year5",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year5"
     },
     {
       "name": "小山 陽世",
       "nameEn": "Hiyo Koyama",
-      "group": "year5",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year5"
     },
     {
       "name": "髙野 瑚白",
       "nameEn": "Kohaku Takano",
-      "group": "year5",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year5"
     },
     {
       "name": "千原 瑠爾",
       "nameEn": "Ryuji Chihara",
-      "group": "year5",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year5"
     },
     {
       "name": "松本 彩花",
       "nameEn": "Ayaka Matsumoto",
-      "group": "year5",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year5"
     },
     {
       "name": "宮崎 乃郁",
       "nameEn": "Noa Miyazaki",
-      "group": "year5",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year5"
     },
     {
       "name": "白須 絵里香",
       "nameEn": "Erika Shirasu",
-      "group": "year4",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year4"
     },
     {
       "name": "加藤 陽奈",
       "nameEn": "Haruna Kato",
-      "group": "year4",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year4"
     },
     {
       "name": "川本 慎子",
       "nameEn": "Mako Kawamoto",
-      "group": "year4",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year4"
     },
     {
       "name": "坂本 陽菜",
       "nameEn": "Haruna Sakamoto",
-      "group": "year4",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year4"
     },
     {
       "name": "澤﨑 由奈",
       "nameEn": "Yuna Sawazaki",
-      "group": "year4",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "group": "year4"
     },
     {
-      "name": "澁谷 阿美",
-      "nameEn": "Ami Shibuya",
-      "group": "year4",
-      "role": "",
-      "degree": "",
-      "profileUrl": ""
+      "name": "テスト 太郎",
+      "group": "year4"
     }
   ]
 }
