@@ -4,6 +4,16 @@ import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
   const items = await getCollection('events');
+
+  // 同じ年度が複数あると、エラーにならず片方のページが上書きされて消えるため、ビルドを止める
+  const byYear = new Map<number, typeof items>();
+  for (const item of items) byYear.set(item.data.year, [...(byYear.get(item.data.year) ?? []), item]);
+  const duplicates = [...byYear].filter(([, list]) => list.length > 1);
+  if (duplicates.length > 0) {
+    const lines = duplicates.map(([year, list]) => `  - ${year}年度: ${list.map((i) => `src/content/events/${i.id}.md`).join(', ')}`);
+    throw new Error(`同じ年度の行事が複数あります（Pages CMS でどちらかを削除するか、年度を修正してください）\n${lines.join('\n')}`);
+  }
+
   return items.map((item) => ({
     params: { year: String(item.data.year) },
     props: { item },
