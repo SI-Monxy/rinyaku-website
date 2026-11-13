@@ -6,7 +6,9 @@ oldUrl: https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category6/entry12.html
 ---
 ### 2025
 
-- Miyagi T, Tsuji D, Nakatani E, Sahara-Ishino Y, Kodama C, Tokou U, Itoh K: Development of a predictive model for neutropenia risk in Japanese breast cancer patients treated with doxorubicin and cyclophosphamide.
+- Test A, Test B: CMS動作確認用のテスト論文タイトル.  
+Test J. 1: 1-2 (2025)
+- Miyagi T, Tsuji D, Nakatani E, Sahara-Ishino Y, Kodama C, Tokou U, Itoh K: Development of a predictive model for neutropenia risk in Japanese breast cancer patients treated with doxorubicin and cyclophosphamide.  
 Br J Clin Pharmacol. 2025 Aug 27. doi: 10.1002/bcp.70259. Online ahead of print.
 
 ### 2024
