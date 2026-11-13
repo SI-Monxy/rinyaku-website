@@ -99,6 +99,33 @@ content:
             type: boolean
             default: true
 
+  - name: publications
+    label: 業績
+    path: src/content/publications
+    type: collection
+    fields:
+      - name: title
+        label: タイトル
+        type: string
+        required: true
+      - name: description
+        label: 一覧に表示する概要
+        type: string
+        required: true
+      - name: order
+        label: 表示順
+        description: 業績一覧での並び順（小さいほど先）
+        type: number
+        required: true
+      - name: oldUrl
+        label: 旧サイトURL
+        type: string
+        readonly: true
+      - name: body
+        label: 本文
+        description: 年度は見出し（H3）、業績は1件ずつ箇条書きにします。新しい業績は該当年度の見出しの下の先頭に追加してください
+        type: rich-text
+
   - name: news
     label: お知らせ
     path: src/content/news
