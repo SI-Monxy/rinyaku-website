@@ -1,0 +1,38 @@
+---
+// 存在しない URL で表示するページ。Cloudflare Pages は dist/404.html をステータス 404 で返す。
+import BaseLayout from '@/layouts/BaseLayout.astro';
+
+const links = [
+  { href: '/', label: 'トップページ' },
+  { href: '/members/', label: 'メンバー' },
+  { href: '/research/', label: '研究内容' },
+  { href: '/publications/', label: '業績' },
+  { href: '/events/', label: '行事' },
+  { href: '/news/', label: 'お知らせ' },
+];
+---
+
+<BaseLayout title="ページが見つかりません" description="お探しのページは見つかりませんでした。">
+  <section class="page-hero">
+    <div class="container">
+      <p class="note">404 Not Found</p>
+      <h1>ページが見つかりません</h1>
+      <p>お探しのページは、移動または削除された可能性があります。URL に誤りがないかご確認ください。</p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:0">
+    <div class="container">
+      <div class="panel">
+        <ul class="list-plain">
+          {
+            links.map((link) => (
+              <li class="news-item">
+                <a href={link.href}>{link.label}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

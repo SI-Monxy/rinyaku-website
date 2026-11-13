@@ -1,13 +1,13 @@
 ---
 title: "製剤関連"
-description: "!/images/seizai2.jpg../img/seizai2.jpg"
+description: "粉体や軟膏、経口投与デバイスの開発を行っています。"
 cover: "/images/seizai.jpg"
 order: 2
 oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry22.html"
 ---
 
 
-[![](/images/seizai2.jpg)](../img/seizai2.jpg)
+[![](/images/seizai2.jpg)](/images/seizai2.jpg)
 
 ### 1.自転公転型ミキサーを用いた粉体操作
 
