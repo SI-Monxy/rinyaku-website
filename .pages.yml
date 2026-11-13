@@ -23,7 +23,6 @@ content:
     fields:
       - name: members
         label: メンバー一覧
-        description: 並び順がそのまま表示順になります（区分ごとに表示）。卒業したメンバーは削除してください。
         type: object
         list:
           collapsible:
@@ -39,7 +38,7 @@ content:
             type: string
           - name: group
             label: 区分
-            description: 学年の繰り上げはここを変更します
+            description: 学年の繰り上げはここを変更します。卒業したメンバーは右上のゴミ箱で削除します。区分内の表示順は一覧の並び順（左のつまみで並べ替え）です
             type: select
             required: true
             options:
@@ -75,7 +74,6 @@ content:
         type: text
       - name: files
         label: 資料一覧
-        description: 並び順がそのまま表示順になります。
         type: object
         list:
           collapsible:
