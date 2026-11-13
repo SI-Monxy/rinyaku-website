@@ -1,6 +1,6 @@
 ---
 title: "経皮吸収製剤関連"
-description: "!/images/keihipage.png../img/keihipage.png"
+description: "薬物輸送担体を用いた経皮吸収製剤の開発と評価を行っています。"
 cover: "/images/clipimage_01.jpg"
 order: 3
 oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry23.html"
@@ -9,7 +9,7 @@ oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry23.html"
 
 ### 経皮吸収製剤の開発
 
-[![](/images/keihipage.png)](../img/keihipage.png)
+[![](/images/keihipage.png)](/images/keihipage.png)
 
 　皮膚は大きな体表面積を持ち薬物のデリバリールートとして期待されているが、角層のバリア能のため数少ない医薬品しか上市されていない。
 　この角質のバリア能を効率的に突破するための手法として、ベシクルやリオトロピック液晶などの薬物輸送単体を利用することがある。
