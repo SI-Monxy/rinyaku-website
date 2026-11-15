@@ -946,6 +946,72 @@ p {
   font-size: 0.82rem;
 }
 
+/* Instagram への導線（トップ「お知らせ・行事」） */
+.instagram-card {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.9rem;
+  margin-top: 1rem;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: inherit;
+  text-decoration: none;
+}
+
+.instagram-card:hover,
+.instagram-card:focus-visible {
+  border-color: #b7ccc9;
+  background: #fbfefe;
+}
+
+.instagram-card-icon {
+  display: grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 12px;
+  color: #fff;
+  background: linear-gradient(135deg, #f9a03f 0%, #e1306c 50%, #833ab4 100%);
+}
+
+.instagram-card-text {
+  display: grid;
+  gap: 0.1rem;
+  min-width: 0;
+}
+
+.instagram-card-text strong {
+  color: var(--navy);
+  font-family: var(--font-display);
+  text-wrap: balance;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.instagram-card-text small {
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+}
+
+.instagram-card-go {
+  color: var(--accent);
+  font-size: 0.88rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+@media (max-width: 560px) {
+  .instagram-card {
+    grid-template-columns: auto minmax(0, 1fr);
+  }
+
+  .instagram-card-go {
+    grid-column: 2;
+  }
+}
+
 .home-more-links {
   display: flex;
   flex-wrap: wrap;
@@ -1216,6 +1282,17 @@ p {
 
 .site-footer a:hover {
   color: #fff;
+}
+
+.footer-sns {
+  margin: 0 0 0.6rem;
+}
+
+.footer-sns a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  text-decoration: none;
 }
 
 .site-footer .note {

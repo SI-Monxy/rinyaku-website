@@ -3,6 +3,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import site from '../data/site.json';
 import { faculty } from '@/lib/data';
+import InstagramIcon from '@/components/InstagramIcon.astro';
 
 const research = (await getCollection('research')).sort((a, b) => a.data.order - b.data.order);
 const news = (await getCollection('news'))
@@ -274,6 +275,14 @@ const facultyPreview = faculty.slice(0, 4);
                   }
                 </div>
               </div>
+              <a class="instagram-card" href={site.instagram.url} target="_blank" rel="noopener noreferrer">
+                <span class="instagram-card-icon"><InstagramIcon size={26} /></span>
+                <span class="instagram-card-text">
+                  <strong>研究室の日々の様子は<wbr />Instagram で</strong>
+                  <small>@{site.instagram.handle}</small>
+                </span>
+                <span class="instagram-card-go">Instagram を見る<span aria-hidden="true"> ↗</span></span>
+              </a>
             </div>
             <p class="home-more-links">
               <a href="/news/">お知らせ一覧</a>
