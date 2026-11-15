@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import site from '../data/site.json';
+import InstagramIcon from '@/components/InstagramIcon.astro';
 
 interface Props {
   title?: string;
@@ -88,6 +89,12 @@ const isCurrent = (href: string) => {
                 </>
               ))
             }
+          </p>
+          <p class="footer-sns">
+            <a href={site.instagram.url} target="_blank" rel="noopener noreferrer" aria-label={`Instagram（@${site.instagram.handle}）`}>
+              <InstagramIcon size={20} />
+              <span>Instagram</span>
+            </a>
           </p>
           <p class="note">Copyright © {new Date().getFullYear()} {site.nameJa}</p>
         </div>

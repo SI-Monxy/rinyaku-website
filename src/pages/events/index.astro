@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getCollection } from 'astro:content';
+import site from '../../data/site.json';
 
 const items = (await getCollection('events')).sort((a, b) => b.data.year - a.data.year);
 ---
@@ -10,6 +11,9 @@ const items = (await getCollection('events')).sort((a, b) => b.data.year - a.dat
     <div class="container">
       <h1>行事</h1>
       <p>年度ごとの研究室イベントを紹介しています。</p>
+      <p class="note">
+        最新の様子は <a href={site.instagram.url} target="_blank" rel="noopener noreferrer">Instagram（@{site.instagram.handle}）</a> でも発信しています。
+      </p>
     </div>
   </section>
   <section class="section" style="padding-top:0">
