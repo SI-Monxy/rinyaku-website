@@ -1,12 +1,10 @@
 ---
-title: "薬物動態関連"
-description: "薬物血中濃度と効果や副作用の相関性について研究しています。"
-cover: "/images/doutai.jpg"
+title: 薬物動態関連
+description: 薬物血中濃度と効果や副作用の相関性について研究しています。
+cover: /images/doutai.jpg
 order: 1
-oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry21.html"
+oldUrl: https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry21.html
 ---
-
-
 ### 薬物血中濃度、効果と副作用の相関性
 
 ![薬物動態関連](/images/clipimage_04.jpg)
