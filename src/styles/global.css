@@ -985,6 +985,9 @@ p {
 .instagram-card-text strong {
   color: var(--navy);
   font-family: var(--font-display);
+  text-wrap: balance;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 
 .instagram-card-text small {
