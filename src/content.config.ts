@@ -24,21 +24,20 @@ const news = defineCollection({
 const research = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/research' }),
   schema: z.object({
-    title: z.string(),
-    description: z.string(),
+    title: requiredText('タイトル'),
+    description: requiredText('概要'),
     cover: publicImage('カバー画像'),
-    order: z.number(),
+    order: z.number({ required_error: '表示順は必須です' }),
     oldUrl: z.string().optional(),
-    incomplete: z.boolean().optional(),
   }),
 });
 
 const activities = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/activities' }),
   schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    order: z.number(),
+    title: requiredText('タイトル'),
+    description: requiredText('概要'),
+    order: z.number({ required_error: '表示順は必須です' }),
     oldUrl: z.string().optional(),
   }),
 });

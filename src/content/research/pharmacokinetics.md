@@ -1,6 +1,6 @@
 ---
 title: "薬物動態関連"
-description: "抗てんかん薬や抗がん薬など多くの薬物で、治療効果や副作用の発現と薬物血中濃度が相関することが知られている。薬物体内動態と効果や副作用との関係が明らかになれば、副作用を最小限に抑えながら治療効果を最大限に引き出す投与設計が"
+description: "薬物血中濃度と効果や副作用の相関性について研究しています。"
 cover: "/images/doutai.jpg"
 order: 1
 oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry21.html"

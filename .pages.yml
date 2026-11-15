@@ -99,6 +99,73 @@ content:
             type: boolean
             default: true
 
+  - name: research
+    label: 研究内容
+    path: src/content/research
+    type: collection
+    filename:
+      template: "{primary}.md"
+      field: create
+    fields:
+      - name: title
+        label: タイトル
+        type: string
+        required: true
+      - name: description
+        label: 概要
+        description: 研究内容の一覧とトップページの研究カードに表示される短い紹介文です（1〜2文）
+        type: string
+        required: true
+      - name: cover
+        label: カバー画像
+        description: 研究内容の一覧とトップページの研究カードに表示する画像です
+        type: image
+        required: true
+        options:
+          media: images
+      - name: order
+        label: 表示順
+        description: 一覧とトップページでの並び順（小さいほど先）
+        type: number
+        required: true
+      - name: oldUrl
+        label: 旧サイトURL
+        type: string
+        readonly: true
+      - name: body
+        label: 本文
+        type: rich-text
+
+  - name: activities
+    label: 活動内容
+    path: src/content/activities
+    type: collection
+    filename:
+      template: "{primary}.md"
+      field: create
+    fields:
+      - name: title
+        label: タイトル
+        type: string
+        required: true
+      - name: description
+        label: 概要
+        description: 活動内容の一覧とトップページの LAB LIFE に表示される短い紹介文です（1文）
+        type: string
+        required: true
+      - name: order
+        label: 表示順
+        description: 一覧とトップページでの並び順（小さいほど先）
+        type: number
+        required: true
+      - name: oldUrl
+        label: 旧サイトURL
+        type: string
+        readonly: true
+      - name: body
+        label: 本文
+        type: rich-text
+
   - name: publications
     label: 業績
     path: src/content/publications

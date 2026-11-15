@@ -1,10 +1,12 @@
-// 業績ページ（src/content/publications）だけ、段落内の改行をそのまま改行として表示する。
+// 指定したコレクション（業績・研究内容・活動内容）だけ、段落内の改行をそのまま改行として表示する。
 // Pages CMS のエディタでは改行がそのまま表示されるため、公開ページの見た目もそれに合わせる。
-// 対象を業績に限定し、お知らせ・行事など他のページの表示は変えない。
-export default function remarkPublicationBreaks() {
+// お知らせ・行事など、対象外のページの表示は変えない。
+const TARGETS = ['/content/publications/', '/content/research/', '/content/activities/'];
+
+export default function remarkLineBreaks() {
   return (tree, file) => {
-    const path = file.path ?? file.history?.[0] ?? '';
-    if (!path.replaceAll('\\', '/').includes('/content/publications/')) return;
+    const path = (file.path ?? file.history?.[0] ?? '').replaceAll('\\', '/');
+    if (!TARGETS.some((dir) => path.includes(dir))) return;
     splitBreaks(tree);
   };
 }

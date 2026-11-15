@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 import { fileURLToPath } from 'node:url';
-import remarkPublicationBreaks from './src/lib/remark-publication-breaks.mjs';
+import remarkLineBreaks from './src/lib/remark-line-breaks.mjs';
 import rehypeImageAttrs from './src/lib/rehype-image-attrs.mjs';
 
 // pages.dev 検証用。大学サーバー配下へ置く場合は base: '/rinyaku' に変更。
@@ -8,7 +8,7 @@ export default defineConfig({
   site: 'https://rinyaku-website.pages.dev',
   trailingSlash: 'always',
   markdown: {
-    remarkPlugins: [remarkPublicationBreaks],
+    remarkPlugins: [remarkLineBreaks],
     rehypePlugins: [rehypeImageAttrs],
   },
   build: {

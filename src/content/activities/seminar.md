@@ -1,6 +1,6 @@
 ---
 title: "研究室ゼミ"
-description: "隔週１回（基本的には木曜日）夕方に研究室メンバー全員が集まって開催するゼミ 当研究室では幅広い分野の研究を遂行しているため、全体の情報共有や研鑽の場となっています。"
+description: "全体ゼミと部屋ゼミを通じて、研究を多角的に深めます。"
 order: 1
 oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry11.html"
 ---

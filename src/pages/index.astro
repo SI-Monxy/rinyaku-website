@@ -5,48 +5,34 @@ import site from '../data/site.json';
 import { faculty } from '@/lib/data';
 
 const research = (await getCollection('research')).sort((a, b) => a.data.order - b.data.order);
+const activities = (await getCollection('activities')).sort((a, b) => a.data.order - b.data.order);
 const news = (await getCollection('news'))
   .filter((n) => !n.data.draft)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 4);
 const events = (await getCollection('events')).sort((a, b) => b.data.year - a.data.year).slice(0, 6);
 
-const researchBlurb: Record<string, string> = {
-  pharmacokinetics: '薬物血中濃度と効果や副作用の相関性について研究しています。',
-  formulation: '粉体や軟膏、経口投与デバイスの開発を行っています。',
-  transdermal: '薬物輸送担体を用いた経皮吸収製剤の開発と評価を行っています。',
-  biologics: 'バイオ医薬品製剤中のタンパク質凝集体に関する研究を行っています。',
-  biomarker: '副作用の早期発見、治療成績向上のための各種バイオマーカーを評価しています。',
-  'stratum-corneum': '健常人、および皮膚疾患患者の角層構造について解析を行っています。',
-};
 
 const quickLinks = [
-  { href: '#research', number: '01', title: '研究を知る', note: '6つの研究領域' },
+  { href: '#research', number: '01', title: '研究を知る', note: `${research.length}つの研究領域` },
   { href: '/members/', number: '02', title: '研究室を知る', note: 'メンバー・活動' },
   { href: '#recruit', number: '03', title: '研究室を訪ねる', note: '大学院生募集' },
   { href: '/training/', number: '04', title: '資料を探す', note: '実務実習関連' },
 ];
 
+// LAB LIFE：活動内容（CMS）から作り、最後に共同研究の案内を固定で添える
 const lifeItems = [
+  ...activities.map((item) => ({
+    title: item.data.title,
+    body: item.data.description,
+    href: `/activities/${item.id}/`,
+  })),
   {
-    number: '01',
-    title: '研究室ゼミ',
-    body: '全体ゼミと部屋ゼミを通じて、研究を多角的に深めます。',
-    href: '/activities/seminar/',
-  },
-  {
-    number: '02',
-    title: '薬物療法研修会',
-    body: '病院の現場で、薬物療法の最新知見と課題を共有します。',
-    href: '/activities/drug-therapy-seminar/',
-  },
-  {
-    number: '03',
     title: '共同研究',
     body: '病院や企業と連携し、臨床課題の解決に取り組みます。',
     href: '/research/',
   },
-];
+].map((item, index) => ({ ...item, number: String(index + 1).padStart(2, '0') }));
 
 const facultyPreview = faculty.slice(0, 4);
 ---
@@ -110,7 +96,7 @@ const facultyPreview = faculty.slice(0, 4);
           {site.aboutBody.map((paragraph) => <p>{paragraph}</p>)}
           <div class="intro-facts" aria-label="研究室の特徴">
             <div>
-              <strong>6</strong>
+              <strong>{research.length}</strong>
               <span>研究領域</span>
             </div>
             <div>
@@ -133,7 +119,7 @@ const facultyPreview = faculty.slice(0, 4);
             <p class="eyebrow">RESEARCH</p>
             <h2 id="research-title">研究内容</h2>
           </div>
-          <p>患者さんの治療成績向上につながる課題を、6つの領域から探究しています。</p>
+          <p>患者さんの治療成績向上につながる課題を、{research.length}つの領域から探究しています。</p>
         </div>
 
         <div class="carousel research-carousel" data-carousel data-autoplay="4500">
@@ -145,7 +131,7 @@ const facultyPreview = faculty.slice(0, 4);
                   <div>
                     <span>{String(index + 1).padStart(2, '0')}</span>
                     <h3>{item.data.title}</h3>
-                    <p>{researchBlurb[item.id] ?? item.data.description}</p>
+                    <p>{item.data.description}</p>
                     <span class="research-more">
                       詳しく見る <span aria-hidden="true">→</span>
                     </span>

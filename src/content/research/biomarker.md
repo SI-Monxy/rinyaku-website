@@ -1,6 +1,6 @@
 ---
 title: "バイオマーカー関連"
-description: "＜4β-hydroxycholesterol濃度を指標とした薬物間相互作用発現様式の解明＞ CYP3A4/5は、薬物代謝に高い割合で関与し、その活性は薬物間相互作用の影響を大きく受ける。患者負担の少ないCYP3A活性の内"
+description: "副作用の早期発見、治療成績向上のための各種バイオマーカーを評価しています。"
 cover: "/images/biomarker.png"
 order: 5
 oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry34.html"

@@ -1,6 +1,6 @@
 ---
 title: "角層構造関連"
-description: "体の最外層にある皮膚の役割には「体の内と外を分け、外界からの刺激の保護、体内からの水分蒸散の保護や諸器官を守る」などがあげられる。"
+description: "健常人、および皮膚疾患患者の角層構造について解析を行っています。"
 cover: "/images/ceramide3.png"
 order: 6
 oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry35.html"
