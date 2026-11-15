@@ -101,6 +101,7 @@ content:
 
   - name: research
     label: 研究内容
+    description: 新しく追加するときは、いちばん上の「Filename」に半角英数字の名前（例：new-theme.md）を入れてください。ページの URL になります
     path: src/content/research
     type: collection
     filename:
@@ -138,6 +139,7 @@ content:
 
   - name: activities
     label: 活動内容
+    description: 新しく追加するときは、いちばん上の「Filename」に半角英数字の名前（例：journal-club.md）を入れてください。ページの URL になります
     path: src/content/activities
     type: collection
     filename:
