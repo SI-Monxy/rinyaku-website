@@ -1,21 +1,19 @@
 ---
-title: "角層構造関連"
-description: "健常人、および皮膚疾患患者の角層構造について解析を行っています。"
-cover: "/images/ceramide3.png"
+title: 角層構造関連
+description: 健常人、および皮膚疾患患者の角層構造について解析を行っています。
+cover: /images/ceramide3.png
 order: 6
-oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry35.html"
+oldUrl: https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category3/entry35.html
 ---
-
-
 ### 健常人および皮膚疾患患者の角層の解析
 
 体の最外層にある皮膚の役割には「体の内と外を分け、外界からの刺激の保護、体内からの水分蒸散の保護や諸器官を守る」などがあげられる。
 
-[![](/images/ceramide_1.png)](/images/ceramide_1.png)
+![](/images/ceramide_1.png)
 
 皮膚の最外層にある角層は角層細胞と細胞間脂質からなり、健常人の角層はこの角層細胞と細胞間脂質の配列が整っていることが知られている。ところが、皮膚疾患患者の角層では、角層細胞と細胞間脂質の配列が乱れていることが知られており、さらに細胞間脂質を構成する成分が健常人と異なることがわかってきた。
 
-[![](/images/ceramide_2.png)](/images/ceramide_2.png)
+![](/images/ceramide_2.png)
 
 そこで本パートでは、健常人および下記の皮膚疾患を持った患者の治療の過程の角層をテープストリッピング法＊によって採取し、UPLC-TOFMS、FT-IR、放射光X線を用いて角層成分および構造解析を行い、皮膚障害発症のメカニズムを角層構造の観点から検討している。
 
