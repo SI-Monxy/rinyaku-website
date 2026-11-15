@@ -1209,7 +1209,7 @@ p {
   display: none;
 }
 
-/* 業績：1件ごとに間隔をあける（項目内の改行は remark-publication-breaks で <br> にする） */
+/* 業績：1件ごとに間隔をあける（項目内の改行は remark-line-breaks で <br> にする） */
 .publication-list li + li {
   margin-top: 0.75rem;
 }

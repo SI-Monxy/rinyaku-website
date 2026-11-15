@@ -1,11 +1,9 @@
 ---
-title: "薬物療法研修会"
-description: "月１回 静岡県立総合病院で開催されている薬物療法研修会に参加しています。"
+title: 薬物療法研修会
+description: 病院の現場で、薬物療法の最新知見と課題を共有します。
 order: 2
-oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry16.html"
+oldUrl: https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry16.html
 ---
-
-
 ### 薬物療法研修会
 
 月１回　静岡県立総合病院で開催されている薬物療法研修会に参加しています。
