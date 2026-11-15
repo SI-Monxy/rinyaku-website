@@ -1,11 +1,9 @@
 ---
-title: "研究室ゼミ"
-description: "全体ゼミと部屋ゼミを通じて、研究を多角的に深めます。"
+title: 研究室ゼミ
+description: 全体ゼミと部屋ゼミを通じて、研究を多角的に深めます。
 order: 1
-oldUrl: "https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry11.html"
+oldUrl: https://w3pharm.u-shizuoka-ken.ac.jp/rinyaku/category4/entry11.html
 ---
-
-
 ### 全体ゼミ
 
 隔週１回（基本的には木曜日）夕方に研究室メンバー全員が集まって開催するゼミ
